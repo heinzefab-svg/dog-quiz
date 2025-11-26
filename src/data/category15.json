@@ -1,0 +1,160 @@
+{
+  "category": "15 Rechtliches",
+  "category_description": "Fragen zu rechtlichen Vorschriften für Hundehalter",
+  "questions": [
+    {
+      "id": 30,
+      "question": "Darf man Hunde im Wald frei laufen lassen?",
+      "options": {
+        "A": "Im Wald dürfen Hunde nur auf Wegen unangeleint mitgeführt werden, sofern nicht eine spezielle Leinenpflicht für das gesamte Gebiet besteht. In Naturschutzgebieten besteht grundsätzlich Leinenpflicht.",
+        "B": "Wenn der Hund nur manchmal ein paar Minuten außerhalb des Weges ist, darf man ihn frei laufen lassen, denn in so kurzer Zeit kann ein Hund im Wald keinen Schaden anrichten.",
+        "C": "Einen Hund sollte man nur dann frei laufen lassen, wenn man ihn zuverlässig in allen Situationen abrufen kann. Im Wald kann allein das Aufscheuchen von Wild zu Schäden führen. Dies kann durch Stress, das Erschöpfen von Energiereserven und das Flüchten des Wildes über die nächste Straße passieren.",
+        "D": "Gemäß dem Landesforstgesetz muss sich jeder, der den Wald betritt, so verhalten, dass die Lebensgemeinschaft Wald und die Bewirtschaftung des Waldes nicht gestört, der Wald nicht gefährdet, beschädigt oder verunreinigt wird. Die Erholung anderer darf nicht unzumutbar beeinträchtigt werden."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 35,
+      "question": "Ist es sinnvoll, den Hund mit einem Mikrochip kennzeichnen zu lassen?",
+      "options": {
+        "A": "Ja, per Mikrochip kann der Hund immer sicher seinem Besitzer zugeordnet werden. In NRW ist ein Mikrochip für Hunde über 20 kg oder 40 cm vorgeschrieben.",
+        "B": "Ja, die Daten eines Mikrochips, der nach den Iso-Richtlinien gefertigt ist, sind auch im Ausland lesbar.",
+        "C": "Ja, im Vergleich mit einer Tätowierung hat ein Mikrochip die Vorteile, dass eine Narkose entfällt und der Wundschmerz wesentlich geringer ist.",
+        "D": "Nein, es ist nicht sinnvoll, da der Mikrochip gesundheitlich belastend ist."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 50,
+      "question": "Darf man seinen Hund neben dem PKW herlaufen lassen?",
+      "options": {
+        "A": "Nur, wenn man es eilig hat.",
+        "B": "Das ist laut Straßenverkehrsordnung verboten.",
+        "C": "Wenn der Hund langsam daran gewöhnt wird, darf man es machen.",
+        "D": "Nur auf Feldwegen darf man seinen Hund neben dem PKW herlaufen lassen."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 60,
+      "question": "Welche Rechtsgebiete können zum Beispiel für Hundehalter relevant sein?",
+      "options": {
+        "A": "Strafrecht, Zivilrecht, Ordnungswidrigkeitenrecht, Tierschutzrecht.",
+        "B": "Landeshundegesetze und kommunale Bestimmungen.",
+        "C": "Tierschutz-Hundeverordnung.",
+        "D": "Keines, man kann sich notfalls damit herausreden, dass man den Gesetzestext nicht kennt."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 69,
+      "question": "Ist es in Deutschland gestattet, einem Hund Rute oder Ohren zu kupieren?",
+      "options": {
+        "A": "Dies ist durch bestimmte Rassebestimmungen vorgeschrieben.",
+        "B": "Nur innerhalb der ersten 16 Lebenswochen, weil die Hunde in dieser Zeit noch kein Schmerzempfinden haben.",
+        "C": "Es ist verboten.",
+        "D": "Für nachweislich jagdlich geführte Hunde kann es im Einzelfall Ausnahmen zum Kupieren der Rute geben."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 74,
+      "question": "Ist die Kastration in Deutschland erlaubt?",
+      "options": {
+        "A": "Ja, aber nur aus medizinischen Gründen, zur Verhinderung der unkontrollierten Fortpflanzung oder wenn die Kastration zur weiteren Haltung notwendig ist.",
+        "B": "Nein, die Kastration ist durch das Tierschutzgesetz grundsätzlich ohne jede Ausnahme verboten.",
+        "C": "Ja, aber nur wenn im Einzelfall die Vor- und Nachteile sorgfältig abgewogen werden und die Kastration zugunsten des Wohlbefindens des Hundes vorgenommen wird.",
+        "D": "Ja, aber erst ab einem Alter von einem Jahr und nur aus medizinischen Gründen."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 79,
+      "question": "Was geschieht im Falle eines Unfalls, wenn ein Hund ungesichert im Auto transportiert wird?",
+      "options": {
+        "A": "Er kann aus dem Fahrzeug geschleudert werden und weglaufen.",
+        "B": "Eigentlich kann nichts Schlimmes passieren, da die Hunde ja zumeist im Auto liegen.",
+        "C": "Der Hund kann bei einem Autounfall ein erhebliches Verletzungsrisiko für Insassen darstellen und auch selbst schwer verletzt werden.",
+        "D": "Dem Fahrer kann unabhängig vom Unfallhergang eine Teilschuld zugesprochen werden."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 174,
+      "question": "Gibt es rechtliche Vorschriften zur Ausbildung von Hunden?",
+      "options": {
+        "A": "Bei der Erziehung ist der Erfolg für den Menschen ausschlaggebend. Welche Methode man wählt, ist eine Meinungsfrage. Dabei zählt besonders die persönliche Einschätzung, was die sinnvollste Vorgehensweise bei seinem eigenen Hund ist.",
+        "B": "Laut dem Tierschutzgesetz darf man einem Hund nicht ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen. Ein vernünftiger Grund ist nicht, dass man gerne seinen Hund unter Verwendung von Strafmaßnahmen trainieren möchte oder nicht über ausreichendes Fachwissen verfügt, um hundegerecht das gewünschte Ziel zu erreichen.",
+        "C": "Gemäß der Tierschutz-Hundeverordnung ist es verboten, bei der Ausbildung, bei der Erziehung oder beim Training Stachelhalsbänder oder andere für die Hunde schmerzhafte Mittel zu verwenden.",
+        "D": "Es gibt Empfehlungen zur Ausbildung in der Tierschutz-Hundeverordnung, die aber nicht rechtlich bindend sind."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 182,
+      "question": "Was muss ich bedenken, wenn ich mit meinem Hund ins Ausland reisen möchte?",
+      "options": {
+        "A": "Gibt es in dem geplanten Reiseland und in den Ländern, die ich bis dahin durchqueren werde, Erkrankungen, vor denen mein Hund geschützt werden kann und sollte?",
+        "B": "Erfüllt mein Hund die nötigen Einreise- und Rückreisebestimmungen (z. B. Tollwutimpfung, EU-Pass, Microchip, Mitführung eines Maulkorbs)?",
+        "C": "Wenn mein Hund in Deutschland gemeldet ist, ist ein Grenzübertritt problemlos möglich.",
+        "D": "Ein Hund braucht keine Reisedokumente."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 194,
+      "question": "Welche der folgenden Aussagen stehen sinngemäß im Tierschutzgesetz?",
+      "options": {
+        "A": "Der Mensch hat eine besondere Verantwortung für den Schutz des Lebens und des Wohlbefindens der Tiere als Mitgeschöpf.",
+        "B": "Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.",
+        "C": "Niemand muss über die erforderlichen Kenntnisse und Fähigkeiten für die Haltung eines Hundes verfügen.",
+        "D": "Man darf die Möglichkeit eines Tieres zu artgemäßer Bewegung nicht so einschränken, dass ihm Schmerzen oder vermeidbare Leiden oder Schäden zugefügt werden."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

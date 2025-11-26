@@ -1,0 +1,156 @@
+{
+  "category": "6 Training",
+  "category_description": "Fragen zum Hundetraining, Belohnungen und Lernverhalten",
+  "questions": [
+    {
+      "id": 70,
+      "question": "Was können im Training Hinweise für Stress sein?",
+      "options": {
+        "A": "Hunde trainieren immer gerne, sodass sie dabei keinen negativen Stress haben können.",
+        "B": "‚Stures' Verhalten. Der Hund reagiert nicht oder nur mühselig auf eigentlich bekannte Signale oder Trainingsversuche. Denn Stress behindert das Lernen und das Abrufen bekannter Lerninhalte.",
+        "C": "Unruhiges bis hyperaktives Verhalten und Probleme mit der Konzentration.",
+        "D": "Spontanes und freudiges Reagieren auf bereits gut gelernte Signale für Trainingsinhalte."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 134,
+      "question": "Gibt es beim Üben mit einem ängstlichen Hund besondere Dinge zu bedenken?",
+      "options": {
+        "A": "Hunde können nur lernen, wenn sie entspannt sind und keine Angst haben.",
+        "B": "Man muss darauf achten, keine bedrohlichen Gesten in den Übungen zu verwenden.",
+        "C": "Mit einem ängstlichen Hund sollte man lieber gar nicht trainieren, weil er aus Angst beißen könnte.",
+        "D": "Mit einem ängstlichen Hund kann man trainieren, wie mit jedem anderen auch."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 136,
+      "question": "Innerhalb welcher Zeit kann ein Hund eine Belohnung sicher mit seiner gezeigten Handlung verknüpfen?",
+      "options": {
+        "A": "Es dürfen nicht mehr als eine, allerhöchstens zwei Sekunden vergehen.",
+        "B": "Man sollte den Hund innerhalb von fünf Sekunden belohnen.",
+        "C": "Es ist nicht von der Zeit abhängig, ob der Hund die Übung begreift, sondern nur von der Tatsache, ob die Futterbelohnung lecker genug ist.",
+        "D": "Man hat ein paar Minuten Zeit, besonders wenn der Hund die Handlung länger gezeigt hat."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 141,
+      "question": "Wie häufig und wie lange sollte man mit einem Hund üben?",
+      "options": {
+        "A": "Ein Mal am Tag eine Stunde.",
+        "B": "So häufig wie es geht, aber immer nur kurz, dann kann sich der Hund am besten konzentrieren.",
+        "C": "Es ist besonders wichtig, dass man täglich immer zur selben Zeit übt, wie lange, ist abhängig vom Trainingsstand des Hundes.",
+        "D": "Zwei Übungen auf jedem Spaziergang sind absolut ausreichend, sonst wird der Hund überfordert."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 143,
+      "question": "Stimmt es, dass man älteren Hunden nichts mehr beibringen kann?",
+      "options": {
+        "A": "Ja, Hunde, die älter als ein Jahr sind, können nichts mehr lernen.",
+        "B": "Nein, Hunde können ihr Leben lang neue Dinge lernen.",
+        "C": "Nein, aber es ist einfacher, schon mit einem Welpen zu üben, dann gewöhnt sich der Hund nicht erst etwas Falsches an.",
+        "D": "Nein. Da ein Welpe noch nicht reif genug ist, sollte man überhaupt mit der Erziehung erst beginnen, wenn der Hund ein Jahr alt ist."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 147,
+      "question": "Nennen Sie Möglichkeiten einen Hund zu belohnen.",
+      "options": {
+        "A": "Mit Futterhäppchen.",
+        "B": "Mit Spielzeug bzw. einem Spiel.",
+        "C": "Man sollte den Hund fest an sich drücken, ihm ins Ohr sagen, dass er brav war und ihn auf den Kopf küssen.",
+        "D": "Mit allem, worüber der Hund sich in dem Moment wirklich freuen würde, sofern man es ihm mit der passenden zeitlichen Verknüpfung ermöglichen kann."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 162,
+      "question": "Was passiert, wenn man mit dem Hund eine bestimmte Übung immer am gleichen Ort macht?",
+      "options": {
+        "A": "Er wird sie an anderen Orten gar nicht oder nicht genauso gut ausführen.",
+        "B": "Lernen ist nicht von einem bestimmten Ort abhängig. Er wird die Übung, wenn man sie häufig an einem Ort geübt hat, bald überall sicher ausführen können.",
+        "C": "Der Ort ist nicht wichtig im Hundetraining. Wichtig ist, dass man immer zur selben Tageszeit übt, damit der Hund sich an einen geregelten Tagesablauf gewöhnt.",
+        "D": "Es könnte passieren, dass der Hund diese Übung ohne Aufforderung macht, sobald er an diesen Ort kommt, weil er die Übung mit dem Ort verknüpft hat."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 164,
+      "question": "Worauf muss man beim Einsatz von Belohnungen achten?",
+      "options": {
+        "A": "Der Hund muss bis spätestens 2 Sekunden nach der erwünschten Handlung belohnt werden.",
+        "B": "Die Belohnung muss so gewählt werden, dass sie den Hund motiviert, aber ihn noch konzentrationsfähig hält.",
+        "C": "Futterbelohnungen sind nicht geeignet, denn sie verleiten den Hund nur zum Betteln.",
+        "D": "Der Hund sollte anfangs immer, später abhängig vom Schwierigkeitsgrad belohnt werden."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 165,
+      "question": "Was passiert, wenn man ein bestimmtes Verhalten mit Futter belohnt?",
+      "options": {
+        "A": "Der Hund wird dieses Verhalten in Zukunft häufiger zeigen, weil er sich eine leckere Belohnung erhofft.",
+        "B": "Der Hund macht diese Handlung grundsätzlich nur noch, wenn er sieht, dass man Futter dabeihat.",
+        "C": "Der Hund wird unnötig verweichlicht, denn eigentlich soll er aus Treue zu mir brav sein und nicht, weil ich ihn mit Futter besteche.",
+        "D": "Der Hund wird mich als ‚Rudelführer' nicht mehr ernst nehmen, weil er weiß, dass er bei mir Futter bekommen kann."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 166,
+      "question": "Wie kann man einen Hund dazu motivieren, zu einem zu kommen?",
+      "options": {
+        "A": "Man kann sich hinhocken und ihn locken.",
+        "B": "Man sollte sich etwas nach vorne beugen und ihn drohend rufen, damit er weiß, wer das Sagen hat.",
+        "C": "Man sollte sich umdrehen, von dem Hund weglaufen und ihn dabei rufen.",
+        "D": "Man sollte ihn zum Training möglichst rufen, wenn er guckt und dann schnell von ihm weglaufen. Denn wenn er nicht guckt, kann es sein, dass er das Rufen gar nicht mitbekommt oder zu sehr abgelenkt ist, um zu reagieren."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

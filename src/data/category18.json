@@ -1,0 +1,154 @@
+{
+  "category": "18 Geschlechter",
+  "category_description": "Fragen zu Geschlechtsmerkmalen, Läufigkeit, Kastration und Fortpflanzung",
+  "questions": [
+    {
+      "id": 113,
+      "question": "Bei einer Kastration werden/wird",
+      "options": {
+        "A": "beim männlichen Tier die Hoden entfernt, weibliche Tiere werden sterilisiert.",
+        "B": "die Hoden bzw. die Eierstöcke und ggf. die Gebärmutter entfernt.",
+        "C": "die Eileiter bzw. Samenleiter durchtrennt.",
+        "D": "die Zeugungsfähigkeit unwiederbringlich unterbunden."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 115,
+      "question": "Geben Sie die Dauer der Trächtigkeit einer Hündin an.",
+      "options": {
+        "A": "3 Monate.",
+        "B": "Je nach Rasse zwischen vier Wochen und zwei Monaten.",
+        "C": "9 Monate.",
+        "D": "57 – 63 Tage."
+      },
+      "correct_answers": [
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 118,
+      "question": "Kann eine Hündin bei der ersten Läufigkeit schon erfolgreich gedeckt werden?",
+      "options": {
+        "A": "Ja.",
+        "B": "Nein."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 124,
+      "question": "Wann werden die meisten Hündinnen das erste Mal läufig?",
+      "options": {
+        "A": "Wenn sie ausgewachsen sind.",
+        "B": "Zwischen 6 und 12 Monaten.",
+        "C": "Frühestens mit 18 Monaten.",
+        "D": "Wenn man sie von Junghundefutter auf Erwachsenennahrung umstellt."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 133,
+      "question": "Man ertappt zwei Hunde beim Deckakt in der Phase des ‚Hängens'. Was kann man tun?",
+      "options": {
+        "A": "Man sollte den Rüden so schnell wie möglich von der Hündin wegreißen, wenn kein Nachwuchs erwünscht ist.",
+        "B": "Man kann in diesem Moment nichts mehr tun. Die Dinge nehmen ihren Lauf. Man sollte danach so schnell wie möglich, innerhalb der nächsten zwei Tage, mit dem/der Tierarzt /ärztin über bestehende Möglichkeiten beraten.",
+        "C": "Man sollte die Hunde schnellstmöglich mit kaltem Wasser übergießen, um den Deckakt zu unterbinden und eine Trächtigkeit zu verhindern.",
+        "D": "Man darf die Tiere auf keinen Fall trennen, weil sie schwere Verletzungen an den Geschlechtsorganen bekommen würden. Man muss die gesamte Dauer des Deckaktes, also auch die Zeit des ‚Hängens' abwarten."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 135,
+      "question": "Was versteht man unter dem Begriff Scheinträchtigkeit der Hündin?",
+      "options": {
+        "A": "Es gibt eine normale hormonelle Scheinträchtigkeit im Anschluss an die deckbereiten Tage einer Läufigkeit, unter der eine Hündin aber nicht leidet. Sie ist unproblematisch und klingt von allein wieder ab.",
+        "B": "Hündinnen leiden oft an einer krankhaften Scheinträchtigkeit, die extrem verzögert oder gar nicht abklingt. In dem Fall ist tiermedizinische Hilfe nötig.",
+        "C": "Bei einer Scheinträchtigkeit sind mögliche Symptome Anschwellen des Gesäuges mit oder ohne Milchfluss, Sammeln und Behüten von Spielzeug, Lustlosigkeit und Stimmungsschwankungen. Es gibt Hündinnen, die so starke Symptome einer Scheinträchtigkeit haben, dass sie darunter leiden.",
+        "D": "Eine Scheinträchtigkeit bei Hündinnen tritt nur nach einer misslungenen Bedeckung auf."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 137,
+      "question": "Woran erkennen Sie die Läufigkeit einer Hündin?",
+      "options": {
+        "A": "Erste Anzeichen können sein, dass Hündinnen plötzlich sehr zum Streunen und Ungehorsam neigen und gereizter gegenüber anderen Hündinnen reagieren können.",
+        "B": "Sie setzt häufiger als sonst Urin ab.",
+        "C": "Sie hat Durchfall.",
+        "D": "Sie blutet aus der Scheide."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 148,
+      "question": "Welche Nebenwirkungen kann die Kastration einer Hündin hervorrufen?",
+      "options": {
+        "A": "Kastrierte Hündinnen werden immer dick.",
+        "B": "Hündinnen werden in aller Regel durch die Kastration ängstlich oder aggressiv.",
+        "C": "Fellveränderungen können auftreten.",
+        "D": "Ein sehr kleiner Prozentsatz der kastrierten Hündinnen wird inkontinent, was im Großteil der Fälle erfolgreich medikamentell behandelt werden kann."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 177,
+      "question": "In welchen Situationen kann eine Hündin von einem Rüden erfolgreich gedeckt und tragend werden?",
+      "options": {
+        "A": "In den sogenannten Stehtagen, wenn der blutige Ausfluss nachlässt und eher fleischwasserfarben wird.",
+        "B": "Bei der ersten Läufigkeit ist eine erfolgreiche Bedeckung nicht möglich.",
+        "C": "Nur direkt zu Beginn einer Läufigkeit, wenn der blutige Ausfluss beginnt.",
+        "D": "Wenn es beim Deckakt zum sogenannten ‚Hängen' kommt. Dabei stehen Hündin und Rüde mit dem Hinterteil aneinander, während der angeschwollene Penis des Rüden in der Hündin bleibt."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 189,
+      "question": "Was sind die häufigsten Verhaltensänderungen bei einem Rüden nach der Kastration?",
+      "options": {
+        "A": "Abnahme von Streunen nach läufigen Hündinnen.",
+        "B": "Abnahme von Markierverhalten.",
+        "C": "Abnahme von Streitigkeiten mit unkastrierten Rüden.",
+        "D": "Abnahme von Jagdverhalten."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "category": "10 Aufzucht",
+  "category_description": "Fragen zur Welpenaufzucht, Sozialisationsphase und Welpenerziehung",
+  "questions": [
+    {
+      "id": 4,
+      "question": "Bis zu welchem Alter bezeichnet man Hunde als ‚Welpen'?",
+      "options": {
+        "A": "bis zu einem Jahr.",
+        "B": "von Geburt an bis zum Abschluss der sogenannten Sozialisationsphase, also ca. bis zur 12. bis maximal 16. Lebenswoche.",
+        "C": "Bis zur Geschlechtsreife.",
+        "D": "Hunde, die noch von der Mutterhündin gesäugt werden."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 14,
+      "question": "Woran erkennen Sie eine empfehlenswerte Welpenspielgruppe?",
+      "options": {
+        "A": "Es dürfen Hunde verschiedener Rassen teilnehmen. Die Gruppengröße beträgt in der Regel maximal 8 Welpen. Es dürfen nur gesunde Hunde bis ca. zur 16. Lebenswoche teilnehmen.",
+        "B": "Der/Die Trainer/in bestraft einen Welpen sofort oder erschreckt ihn mit einer Wasserspritze oder anderem, wenn er aggressives Verhalten zeigt, denn die Hunde sollen eine gute Sozialverträglichkeit lernen.",
+        "C": "Ängstlichen Welpen wird ein sicherer Rückzugsort beim Halter gewährt und ‚Grobiane' liebevoll zu anderen Welpen abgelenkt. Bei sehr ängstlichen Hunden wird in ungestörter Atmosphäre Kontakt mit einem einzelnen passenden Welpen ermöglicht.",
+        "D": "Den Welpen werden viele verschiedene Reizsituationen geboten, damit sie ‚umweltsicher' werden. Dabei bestimmt das schwächste Glied der Gruppe das Ausmaß der Reize."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 19,
+      "question": "Was muss man bei einem Hund im Welpenalter in Bezug auf sein Verhalten besonders beachten?",
+      "options": {
+        "A": "Ein Welpe sollte in positiver Weise alle Umweltsituationen, Kinder verschiedener Altersklassen und Erwachsene kennen lernen, mit denen er später zurechtkommen muss.",
+        "B": "Welpen sollten möglichst zurückgezogen und ruhig gehalten werden, da sie noch nicht so aufnahmefähig sind.",
+        "C": "Man sollte individuell die kurze Zeit der Sozialisationsphase für viele Erfahrungen möglichst gut nutzen, ohne den Welpen zu überfordern.",
+        "D": "Bei einem Welpen braucht man nichts anders zu machen als mit einem erwachsenen Hund."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 29,
+      "question": "Welche Erfahrungen sind für ein reibungsloses Zusammenleben in der menschlichen Gesellschaft für einen Welpen wichtig?",
+      "options": {
+        "A": "Er sollte in positiven Begegnungen viele verschiedene Menschen (von Babies bis zu alten Menschen) kennenlernen.",
+        "B": "Fahrten mit öffentlichen Verkehrsmitteln und Teilnahme am turbulenten Straßenverkehr, an die ein Hund je nach seinem Naturell schrittweise herangeführt werden sollte.",
+        "C": "Welpen sollten möglichst viel im heimischen Bereich gehalten werden, damit sie nicht überfordert werden.",
+        "D": "Aufenthalte im Zwinger, damit der Welpe lernen kann, auch einmal allein zu bleiben."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 34,
+      "question": "Ist die Aufzucht von Welpen im Garten ideal?",
+      "options": {
+        "A": "Der Garten ist eine natürliche Umgebung und das härtet ab.",
+        "B": "Bei einer ausschließlichen Aufzucht im Garten kann der Hund nicht genügend Erfahrungen mit Menschen und dem Leben in häuslicher Umgebung machen.",
+        "C": "Es kommt nicht darauf an, wo der Hund aufwächst, sondern wie viel ihm geboten wird. Bei einer Aufzucht im Garten muss sichergestellt sein, dass er dennoch ausreichend viele positive Kontakte mit Menschen, Umweltreizen (z.B. Staubsauger, Verkehr) und anderen Hunden hat.",
+        "D": "Im Garten lauern viele Krankheitserreger, deshalb sollten Welpen bis zur 12. Woche überhaupt nicht draußen gehalten werden."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 39,
+      "question": "Welche Punkte sind bei der Welpenerziehung wichtig?",
+      "options": {
+        "A": "Mit der Erziehung sollte man grundsätzlich nicht in Welpentagen, sondern frühestens mit einem halben Jahr anfangen.",
+        "B": "Welpen können sich immer nur kurz konzentrieren.",
+        "C": "Einen Welpen sollte man niemals bestrafen, denn sonst fördert man Ängste gegenüber Menschen und der Welpe büßt Vertrauen in den Menschen ein.",
+        "D": "Durch frühzeitiges Training über positive Bestärkung fördert man die Bereitschaft zur Zusammenarbeit mit dem Menschen und erzielt besonders zuverlässige Ergebnisse."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 44,
+      "question": "Was muss man bei Übungen mit einem Welpen beachten?",
+      "options": {
+        "A": "Man sollte liebevoll, aber konsequent mit ihm umgehen.",
+        "B": "Man sollte ihm im positiven Sinn viele Reizsituationen und Sozialkontakte bieten, um ihn an alltägliche Situationen zu gewöhnen, ohne ihn dabei zu überfordern.",
+        "C": "Auch bei einem Welpen muss man schon mit mäßigem Druck und Strenge arbeiten, damit er sich gar nicht erst unerwünschtes Verhalten angewöhnt.",
+        "D": "Übungen sollten spielerisch aufgebaut werden, denn so lernt der Welpe in einer stressfreien Übungsatmosphäre."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 63,
+      "question": "Wie lange dauert die sogenannte Sozialisationsphase beim Welpen?",
+      "options": {
+        "A": "Bis zum Abschluss der 8. Lebenswoche.",
+        "B": "Bis zum Abschluss der 12. bis maximal 16. Lebenswoche.",
+        "C": "Bis zur Geschlechtsreife.",
+        "D": "Bis zu einem Jahr."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 68,
+      "question": "Warum sind gerade die ersten drei Monate im Leben eines Hundes so entscheidend?",
+      "options": {
+        "A": "Die Hunde sammeln in dieser Zeit Erfahrungen, die ihnen im späteren Leben als Vergleichsmaßstab dienen.",
+        "B": "Die ersten drei Monate sind gar nicht so entscheidend. Alle wichtigen Erfahrungen kann ein Hund auch zu einem späteren Zeitpunkt im Leben machen.",
+        "C": "In dieser Zeit entwickelt sich das Gehirn besonders schnell. Durch gute Aufzuchtbedingungen fördert man Umweltsicherheit und soziale Sicherheit und beugt damit der Entstehung von Problemverhaltensweisen vor.",
+        "D": "Hunde binden sich in dieser Zeit unwiederbringlich an ihren Besitzer."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 73,
+      "question": "Ab wann sollte man mit einem Welpen eine Welpenspielgruppe besuchen?",
+      "options": {
+        "A": "So früh wie möglich. Welpen brauchen nicht nur sozialkompetente Althunde, sondern auch gleichaltrige Hunde zum Spielen, um ein möglichst gutes Sozialverhalten zu lernen. Ca. 3-4 Tage nach der Übernahme kann man mit einem gesunden Welpen eine Welpenspielgruppe besuchen.",
+        "B": "Ab dem vierten Lebensmonat, sofern der Welpe alle notwendigen Impfungen bekommen hat. Vorher sollte man auf keinen Fall den Welpen an andere Hunde heranlassen, um jegliches Infektionsrisiko zu vermeiden. Denn angemessenes Sozialverhalten ist Hunden angeboren, sodass ein Meiden von Kontakten in dem Alter kein Problem ist.",
+        "C": "Gar nicht, weil langes oder rauhes Welpenspiel den Gelenken schadet.",
+        "D": "Wenn der Welpe mit mindestens einem anderen Hund täglichen Kontakt hat, gar nicht, weil dieser Kontakt dem Hund für eine optimale Entwicklung reicht."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    }
+  ]
+}

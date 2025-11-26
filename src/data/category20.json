@@ -1,0 +1,152 @@
+{
+  "category": "20 Öffentlichkeit",
+  "category_description": "Fragen zum Verhalten mit Hund in der Öffentlichkeit",
+  "questions": [
+    {
+      "id": 53,
+      "question": "Wie soll ich mich verhalten, wenn ein fremder Hund auf mich und mein Kind zugestürmt kommt.",
+      "options": {
+        "A": "Ich reiße mein Kind schnell hoch, um es aus der Gefahrenzone zu bringen.",
+        "B": "Ich schaue dem Hund in die Augen und verjage ihn.",
+        "C": "Ich bleibe ganz ruhig und stelle mich zwischen Hund und Kind und nehme mein Kind ggf. mit ruhigen Bewegungen auf den Arm.",
+        "D": "Ich reiße die Arme hoch und schreie den Hund an."
+      },
+      "correct_answers": [
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 95,
+      "question": "Auf dem Hundespaziergang kommt einem ein/e Reiter/in entgegen. Wie soll man sich verhalten?",
+      "options": {
+        "A": "Wenn der Hund Pferde kennt, braucht man nichts zu unternehmen, denn dann hat der Hund keine Angst.",
+        "B": "Man sollte den Hund heranrufen und an die Leine nehmen, bis Pferd und Reiter/in vorbei sind und man sicher weiß, dass der Hund nicht hinterherrennen wird.",
+        "C": "Wenn der/die Reiter/in nur ‚Schritt' reitet, ist keine Gefahr gegeben, denn das langsame Reiten verleitet nicht zum Jagen.",
+        "D": "Man sollte seinen Hund grundsätzlich unter Kontrolle nehmen, da manche Pferde auch bei ruhigen und freundlichen Hunden ängstlich reagieren und dadurch Unfälle entstehen können."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 102,
+      "question": "Auf einer Wiese spielt eine Gruppe von Kindern Fußball. Wie verhalten Sie sich mit Ihrem frei laufenden Hund?",
+      "options": {
+        "A": "Wenn dies ein Hundeauslaufgebiet ist, darf ich den Hund frei laufen lassen. Ich erkläre den Fußballspielern/innen das und schicke sie weg.",
+        "B": "Ich muss gar nichts unternehmen, denn mein Hund ist nicht aggressiv. Für den Fall, dass er im Übermut den Ball kaputt machen sollte, habe ich eine Haftpflichtversicherung.",
+        "C": "Ich leine den Hund vorsichtshalber an, bis ich an den Ball spielenden Kindern vorbei bin und sicher weiß, dass der Hund nicht zurücklaufen wird.",
+        "D": "Man muss in solchen Situationen nur große Hunde anleinen, denn ein kleiner Hund kann einem Kind nicht gefährlich werden."
+      },
+      "correct_answers": [
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 104,
+      "question": "Wer ist für das Entfernen von Hundekot verantwortlich?",
+      "options": {
+        "A": "Die Städte, denn dafür wird Hundesteuer bezahlt.",
+        "B": "Der Halter.",
+        "C": "Die Allgemeinheit. Jeder, der einen Hundehaufen sieht, muss ihn entfernen.",
+        "D": "Niemand. Hundekot muss nicht entfernt werden, denn es ist etwas Natürliches, mit dem man leben muss."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 106,
+      "question": "Wie verhalten Sie sich, wenn Sie auf dem Hundespaziergang an einem Kinderspielplatz vorbeikommen?",
+      "options": {
+        "A": "Mein Hund liebt Kinder. Ich gucke, ob Kinder da sind, damit mein Hund mit den Kindern toben kann.",
+        "B": "In der Nähe von Kinderspielplätzen leine ich meinen Hund an. Dadurch kann ich vermeiden, dass sich jemand belästigt oder gefährdet fühlt.",
+        "C": "Wenn keine Kinder da sind, lasse ich den Hund laufen, denn er liebt es durch den Sand zu rennen.",
+        "D": "Ich habe einen kleinen Hund, der keine Gefahr für Kinder darstellt, deshalb lasse ich ihn einfach laufen."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 108,
+      "question": "In welcher der folgenden Situationen ist es angebracht, den Hund an der Leine zu halten?",
+      "options": {
+        "A": "In der Innenstadt und an stark befahrenen Straßen.",
+        "B": "Im Treppenhaus und auf Zugangswegen von Mehrfamilienhäusern.",
+        "C": "In Hotels, in Läden oder in Restaurants.",
+        "D": "In Gebieten mit viel Wild."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 111,
+      "question": "Wie verhalten Sie sich, wenn Ihnen ein Jogger entgegenkommt und Ihr Hund frei läuft?",
+      "options": {
+        "A": "Ich brauche nichts zu unternehmen, weil mein Hund höchstens zu dem Jogger hinläuft, ihn aber nicht belästigt oder beißt.",
+        "B": "Ich rufe meinen Hund zu mir, leine ihn an und lasse ihn erst wieder los, wenn ich sicher weiß, dass er den Jogger nicht verfolgen wird.",
+        "C": "Ich renne ein Stückchen mit dem Jogger mit. Das lenkt meinen Hund vom Jogger ab, denn er konzentriert sich dann nur auf mich.",
+        "D": "Ich bitte den Jogger möglichst langsam zu laufen, um meinen Hund nicht zum Hinterherrennen zu verleiten."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 116,
+      "question": "Auf einer Hundewiese macht eine Gruppe von Kindern Picknick. Wie verhalten Sie sich, wenn Sie mit Ihrem freilaufenden Hund dort vorbeikommen?",
+      "options": {
+        "A": "Da ich sicher weiß, dass mein Hund Kindern nichts tut, lasse ich ihn laufen.",
+        "B": "Ich leine meinen Hund auf jeden Fall an, denn ich möchte nicht, dass sich andere Menschen durch meinen Hund bedrängt fühlen oder Angst bekommen.",
+        "C": "Ich rufe den Kindern laut zu, dass mein Hund nichts tut.",
+        "D": "Ich erkläre den Kindern, dass picknicken in einem Hundeauslaufgebiet verboten ist und schicke sie weg."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 128,
+      "question": "Auf dem Hundespaziergang kommen Ihnen Leute entgegen, die sich angesichts Ihres Hundes deutlich unwohl fühlen. Wie verhalten Sie sich?",
+      "options": {
+        "A": "Wenn es ein Ort ist, an dem man den Hund laufen lassen darf und der Hund brav ist, muss man nichts unternehmen.",
+        "B": "Ich gehe auf die Leute zu und versichere, dass der Hund ganz lieb ist.",
+        "C": "Ich rufe meinen Hund zu mir und erkläre ihm, dass die Leute Angst vor ihm haben. Ich sage ihm auch, dass er deswegen nicht traurig sein soll.",
+        "D": "Ich leine meinen Hund sofort an, denn andere Menschen dürfen sich durch meinen Hund nicht bedroht fühlen."
+      },
+      "correct_answers": [
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 191,
+      "question": "Welche Schwierigkeiten können durch Importhunde entstehen?",
+      "options": {
+        "A": "Es können in keinem Fall Probleme entstehen.",
+        "B": "Für heimische Hunde wird der Infektionsdruck durch mitgebrachte Krankheitserreger erhöht, wenn die Tiere sie beim Import mitbringen.",
+        "C": "Unwissentliche Einschleppung von neuen Parasiten und Krankheitserregern, wenn die Hunde nicht fachlich korrekt und ausreichend oft vor und nach dem Import untersucht und behandelt wurden.",
+        "D": "Zusätzliche Belastungen der Tierheime, wenn die Hunde nicht in das neue Zuhause passen und abgegeben werden müssen."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

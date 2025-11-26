@@ -1,0 +1,163 @@
+{
+  "category": "8 Hundewahl",
+  "category_description": "Fragen zur Auswahl eines Hundes, Züchterwahl und Überlegungen vor der Anschaffung",
+  "questions": [
+    {
+      "id": 17,
+      "question": "Welche Überlegungen sind vor der Anschaffung eines Hundes wichtig?",
+      "options": {
+        "A": "Ist die Hundehaltung erlaubt?",
+        "B": "Habe ich die zeitlichen und finanziellen Möglichkeiten, den Hund 12-15 Jahre lang sicher zu behalten und zu versorgen?",
+        "C": "Die Abstammung von Elterntieren, die auf vielen Ausstellungen Auszeichnungen gewonnen haben.",
+        "D": "Passt der ausgesuchte Hund von seiner Rasseveranlagung her tatsächlich zu meinem Lebensstil?"
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 22,
+      "question": "Welche Überlegungen muss man anstellen, wenn man sich einen Hund anschaffen will?",
+      "options": {
+        "A": "Der ausgewählte Hund sollte von seiner Rasseveranlagung her möglichst gut zu einem passen. Das Aussehen sollte hingegen nicht ausschlaggebend für die Entscheidung sein.",
+        "B": "Beim Zusammenleben mit einem Hund könnten Probleme auftreten. Habe ich dann die Geduld, Zeit und Kraft mich darum zu kümmern?",
+        "C": "Gehört die Rasse, für die ich mich interessiere, zu einer der erlaubnispflichtigen Hunderassen, sodass ich mich erkundigen muss, ob spezielle Voraussetzungen für eine Erlaubnis zur Haltung erfüllt werden müssen?",
+        "D": "Gehört die Rasse, für die ich mich eigentlich interessiere, zu einer der Rassen mit sehr kurzer Nase, die Probleme mit der Atmung, den Augen, Beinen und der Wirbelsäule haben (sog. Qualzucht), sodass ich mich den Hunden zuliebe für eine andere Rasse entscheiden sollte?"
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 27,
+      "question": "Unter welchen Umständen sollte man davon absehen, sich einen Hund anzuschaffen?",
+      "options": {
+        "A": "Bei Berufstätigkeit, wenn der Hund mehr als sechs Stunden täglich allein sein müsste.",
+        "B": "Wenn absehbar ist, dass sich Berufs- oder Lebenssituation ändern werden und nicht sicher ist, ob Hundehaltung dann noch möglich ist.",
+        "C": "Wenn man keinen Garten hat.",
+        "D": "Wenn man eine starke Allergie auf Hundehaare hat."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 45,
+      "question": "Was muss in Bezug auf die eigenen Wohnverhältnisse abgeklärt werden, bevor man sich einen Hund anschafft?",
+      "options": {
+        "A": "Benötigt die Rasse, die man gerne haben möchte, besonders viel Platz oder fühlt sich besonders im Freien wohl?",
+        "B": "Die Wohnverhältnisse sind nicht wichtig, weil sich jeder Hund an die Wohnverhältnisse seines Halters anpasst.",
+        "C": "Ist in einer Mietwohnung die Haltung eines Hundes von Seiten des Vermieters wirklich sicher erlaubt?",
+        "D": "Wie bellfreudig ist die Rasse, die man gerne haben möchte und könnte Bellen ein Problem mit den Nachbarn geben?"
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 47,
+      "question": "Hat es Vorteile, mehr als einen Hund zu halten?",
+      "options": {
+        "A": "Ja, denn die Hunde haben dann immer einen Sozialpartner – besonders wenn man berufstätig und mehrere Stunden am Tag außer Haus ist.",
+        "B": "Ja, denn die Hunde werden nicht fettleibig, weil sie den ganzen Tag miteinander spielen.",
+        "C": "Ja, Hunde führen, wenn sie zu mehreren gehalten werden, ein artgerechteres Leben – vorausgesetzt sie verstehen sich untereinander gut.",
+        "D": "Ja, der Hund, der als zweiter hinzukommt, lernt doppelt so schnell, denn er guckt sich alles Wesentliche von dem anderen Hund ab."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 49,
+      "question": "Wenn man einen Welpen kauft, sollte man",
+      "options": {
+        "A": "besonders in der ersten Phase viel Zeit haben, um sich bestmöglich um den Hund kümmern zu können. Dabei muss man auch einplanen, dass es einige Monate dauern kann, bis der junge Hund weit genug im Alleinseinstraining ist, um einige Stunden allein bleiben zu können.",
+        "B": "den Züchter vorher ‚auf Herz und Nieren' geprüft haben, um einen Hund mit guten charakterlichen und genetischen Anlagen zu bekommen.",
+        "C": "unbedingt einen Garten haben, denn sonst ist es zu problematisch, den Hund stubenrein zu bekommen.",
+        "D": "sicher sein, dass der Hund auch längerfristig zu dem Lebensstil und den Lebensumständen passt."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 52,
+      "question": "Gibt es Nachteile, wenn man mehr als einen Hund hält?",
+      "options": {
+        "A": "Man muss doppelt so oft spazieren gehen, wenn es zu Problemen kommt, die ein Spazierengehen gleichzeitig mit beiden Hunden nicht zulassen.",
+        "B": "Man muss doppelt so viel Erziehungsarbeit leisten.",
+        "C": "Man muss doppelte Kosten für Futter, Tierarzt/ärztin, Hundesteuer, Versicherung, Ausstattung usw. tragen.",
+        "D": "Man hat zwar Nachteile, aber die Hunde gucken sich untereinander nur erwünschte Verhaltensweisen ab, sodass die Erziehung sehr einfach wird."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 54,
+      "question": "Welche Dinge sprechen gegen den Erwerb eines Welpen dieser Herkunft?",
+      "options": {
+        "A": "Die Hündin verbellt jeden, der in die Nähe kommt oder die Welpen bellen oder verstecken sich bzw. trauen sich nicht richtig an die Besucher heran.",
+        "B": "Die Hunde haben keine Ahnentafel.",
+        "C": "Es ist nicht möglich, die Mutterhündin mit ihren Welpen zu sehen, sondern nur die Welpen ohne die Hündin.",
+        "D": "Die Welpen rennen zu jedem hin."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 57,
+      "question": "Woran erkennt man einen seriösen Züchter?",
+      "options": {
+        "A": "Er züchtet in aller Regel Hunde verschiedener Rassen oder hält und verkauft zumindest nicht nur eine Rasse. Er hält diese Tiere in einer gut gepflegten, sauberen Zwingeranlage und achtet darauf, dass die Tiere nicht durch Besucher gestört werden.",
+        "B": "Er gibt gerne Auskunft und klärt die Interessenten auch über mögliche Nachteile der Rasse auf.",
+        "C": "Er hat ständig einen Wurf Welpen, um die Nachfrage nach der Rasse zu decken.",
+        "D": "Ein seriöser Züchter integriert die Welpen in seine Familie und bietet ihnen während der Aufzuchtphase zahlreiche Alltags- und Umweltreize."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 173,
+      "question": "Was sollte ich bedenken, wenn ich überlege, einen Hund aus Süd- oder Osteuropa über einen Tierschutz-Verein aufzunehmen?",
+      "options": {
+        "A": "Der Hund sollte - kurz bevor er nach Deutschland gebracht wird - auf die im Herkunftsland vorkommenden Erkrankungen getestet werden. In Deutschland sollte der Hund nachgetestet werden.",
+        "B": "Ich kann davon ausgehen, dass der Hund dankbar dafür ist, dass ich ihn bei mir aufnehme. Mit ein wenig Zeit und Geduld wird sich ein solcher Hund in jedem Fall an sein neues Zuhause gewöhnen, sodass man mit ihm alles unternehmen kann, was einem wichtig ist.",
+        "C": "Es ist zu bedenken, dass solche Hunde oft sehr ängstlich in Bezug auf Menschen und/oder Umgebungsreize, wie z. B. Straßenverkehr sind, weil sie in dieser Beziehung oft nur wenige und/oder schlechte Erfahrungen sammeln konnten. Daher können sie für die Haltung in dicht bewohnten Gegenden nicht geeignet sein.",
+        "D": "Ich muss nur darauf achten, dass der Hund korrekt geimpft und entwurmt ist, bevor er nach Deutschland kommt."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    }
+  ]
+}

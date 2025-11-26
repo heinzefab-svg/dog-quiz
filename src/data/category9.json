@@ -1,0 +1,157 @@
+{
+  "category": "9 Hundebegegnungen",
+  "category_description": "Fragen zu Begegnungen zwischen Hunden, Spielverhalten und Konfliktsituationen",
+  "questions": [
+    {
+      "id": 8,
+      "question": "Zwei Hunde kämpfen miteinander. Die Besitzer stehen daneben und schreien die Hunde an, um den Kampf zu beenden. Wie interpretieren die Hunde dieses Verhalten?",
+      "options": {
+        "A": "Durch das Anschreien bekommen die Hunde Angst und beenden den Kampf sofort.",
+        "B": "Durch die aggressive Stimmung der Besitzer steigt der Stress der Hunde und sie können daher weiterkämpfen.",
+        "C": "Das Schreien der Besitzer beeinflusst das Verhalten der Hunde nicht.",
+        "D": "Durch das Schreien verstehen die Hunde, dass sie nicht kämpfen sollen und hören daher auf."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 11,
+      "question": "Was versteht man unter dem sogenannten ‚Welpenschutz'?",
+      "options": {
+        "A": "Welpen werden von ihrer Mutterhündin niemals im Stich gelassen.",
+        "B": "Welpen werden von erwachsenen Hunden nicht gebissen, denn sie stehen unter Welpenschutz. Ein erwachsener Hund, der nach einem Welpen schnappt, ist verhaltensgestört.",
+        "C": "Erwachsene Hunde lassen junge Hunde im ersten Lebensjahr alles machen, was sie wollen, weswegen man auch mit der Erziehung eines Hundes erst mit einem Jahr beginnen sollte.",
+        "D": "Es gibt keinen ‚Welpenschutz'. Den Welpen ‚schützt' angemessenes, d.h. unterwürfiges und beschwichtigendes Verhalten."
+      },
+      "correct_answers": [
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 13,
+      "question": "Warum können Hunde an der Leine aggressiver reagieren?",
+      "options": {
+        "A": "Hunde können an der Leine unsicherer gegenüber anderen Hunden sein und sich dadurch aggressiver verhalten, wenn sie in jungem Alter nie gelernt haben, dass man sich auch an der Leine entspannt begrüßen kann.",
+        "B": "Hunde können sich an der Leine nicht frei bewegen und ausweichen und können sich daher schneller bedroht fühlen und aggressiver reagieren.",
+        "C": "Hunde können frustriert sein, dass sie durch die Leine von einem Kontakt mit dem anderen Hund abgehalten werden und können sich deshalb aggressiv verhalten.",
+        "D": "Durch Versuche der Halter unerwünschtes Verhalten an der Leine durch harmlos erscheinende Korrekturen bis hin zu Schreck- oder Strafreizen zu unterbinden, wird aggressives Verhalten gefördert."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 25,
+      "question": "Unter welchen Umständen kann ich meinen Hund in der Öffentlichkeit mit anderen Hunden spielen lassen?",
+      "options": {
+        "A": "Im Hundeauslaufgebiet kann ich meinen Hund immer spielen lassen. Falls ein anderer Hund nicht spielen möchte, regeln die Hunde das unter sich.",
+        "B": "Wenn ich mit dem anderen Hundehalter abgeklärt habe, dass Spielkontakt erwünscht ist und beide Hunde frei laufen können.",
+        "C": "Wildes Spiel niemals an der Straße, an der Leine oder wenn sich andere Menschen oder Tiere durch die spielenden Hunde belästigt fühlen oder gefährdet werden könnten.",
+        "D": "Am sichersten ist es, wenn beide Hunde frei laufen können. Bei Welpen oder Hunden, die niemals abgeleint werden können, muss abgewogen werden zwischen der Chance auf ein ruhiges entspanntes Spiel und einer möglichen Verwicklungsgefahr der Leine oder der Leinen."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 80,
+      "question": "Woran erkennen Sie, dass Hunde miteinander spielen?",
+      "options": {
+        "A": "Sie zeigen gelegentlich eine Spielaufforderung.",
+        "B": "Im Spiel sind alle Spielpartner ausgelassen und fröhlich und in der Regel wechseln die Positionen.",
+        "C": "Im Spiel wird ein Hund in die Ecke getrieben oder umgeworfen. Der ‚Unterlegene' quiekt hierbei laut auf, schnappt um sich und hat die Rute eingeklemmt.",
+        "D": "Alles ist Spiel, wenn keine offenen Wunden entstehen."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 93,
+      "question": "Was sind mögliche Ursachen, wenn ein Hund sich bei einer Begegnung mit einem anderen direkt aggressiv verhält?",
+      "options": {
+        "A": "Der Hund will mit seinem aggressiven Verhalten den anderen Hund unterordnen und so seine Ranghöhe klarstellen.",
+        "B": "Der Hund ist unsicher im Sozialverhalten mit anderen Hunden.",
+        "C": "Der andere Hund hat gedroht, ohne dass es von den Menschen wahrgenommen wurde.",
+        "D": "Der Hund hat bereits erlebt, dass sein Halter bei Hundebegegnungen böse auf ihn werden kann und verhält sich daher aggressiv."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 98,
+      "question": "Zwischen zwei Hunden entwickelt sich eine Rauferei. Wie sollte man reagieren?",
+      "options": {
+        "A": "Man sollte die raufenden Hunde so lange möglichst laut anschreien, bis sie aufhören sich zu raufen.",
+        "B": "Man sollte sich möglichst gar nicht einmischen, sofern die Kräfteverhältnisse nicht zu extrem unterschiedlich sind. Beide Besitzer sollten sich kommentarlos und zügig in entgegengesetzter Richtung von den Hunden entfernen.",
+        "C": "Wenn nur zwei Hunde in die Rauferei verwickelt sind, sollte man die Hunde trennen, indem man am Schwanz oder an den Hinterbeinen zieht, und zwar gleichzeitig bei beiden Hunden.",
+        "D": "Man sollte den Hund, der angegriffen worden ist, hinterher trösten und den anderen streng zurechtweisen und bestrafen."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 109,
+      "question": "Kann es Probleme geben, wenn zwei angeleinte Hunde miteinander Kontakt aufnehmen?",
+      "options": {
+        "A": "Ja, denn Hunde fühlen sich an der Leine grundsätzlich stärker und es kommt daher häufiger zu einer Rauferei.",
+        "B": "Ja. Wenn die Hunde umeinander herumlaufen, können sich die Leinen verheddern. Die Gefahr einer Rauferei ist dann sehr groß, da keiner der Hunde ein normales Sozialverhalten zeigen kann. Bei verhedderten Leinen ist es schwerer, eine Rauferei zu beenden.",
+        "C": "Ja, da Hunde an der Leine schlechter ausweichen können, können sie unsicherer sein und schneller aggressiv reagieren.",
+        "D": "Ja, es gibt Hunde, die an der Leine schneller aggressiv reagieren. Daher sollte man vorab klären, ob ein Kontakt der Hunde erwünscht ist und besonders umsichtig mit der Leine umgehen, sodass die Hunde möglichst nicht behindert werden."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 122,
+      "question": "Wie sollte man sich als Halter eines unkastrierten Rüden verhalten, wenn einem auf dem Hundespaziergang eine läufige Hündin begegnet?",
+      "options": {
+        "A": "Man darf seinen Rüden ganz normal laufen lassen, weil die Hündin an der Leine geführt werden muss.",
+        "B": "Man sollte seinen Rüden heranrufen und anleinen. Erst wenn man sicher weiß, dass er der Hündin nicht hinterherlaufen wird, kann man ihn wieder ableinen.",
+        "C": "Man sollte den Besitzer der Hündin darüber aufklären, dass er in öffentlichen Gebieten nicht mit einer läufigen Hündin laufen darf.",
+        "D": "Wenn die Hündin nicht gerade die ‚Steh-Tage' hat, kann man den Rüden ohne aufzupassen mit der Hündin spielen lassen."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 139,
+      "question": "Ist es Spiel, wenn eine Gruppe von Hunden einem einzelnen Hund hinterherrennt und ihn in die Enge drängt?",
+      "options": {
+        "A": "Nein, das kann unangemessenes Beuteverhalten sein.",
+        "B": "Nein, das kann man als Mobbing bezeichnen.",
+        "C": "Nein, die Gruppe von Hunden will den anderen Hund in der Rangfolge unterordnen.",
+        "D": "Ja, das ist eine typische Situation im Spiel."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    }
+  ]
+}

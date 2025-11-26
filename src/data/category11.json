@@ -1,0 +1,162 @@
+{
+  "category": "11 Hilfsmittel",
+  "category_description": "Fragen zu Erziehungshilfsmitteln wie Maulkorb, Kopfhalfter, Leine und tierschutzrechtlich bedenklichen Hilfsmitteln",
+  "questions": [
+    {
+      "id": 7,
+      "question": "Worauf muss man bei der Auswahl eines Maulkorbs achten?",
+      "options": {
+        "A": "Ein Maulkorb muss bequem sitzen und darf nicht in die Augen rutschen. An das Tragen muss der Hund in kleinen Schritten über mehrere Wochen gewöhnt werden.",
+        "B": "Für längere Tragezeiten von mehr als wenigen Minuten muss gewährleistet sein, dass der Hund problemlos mit geöffnetem Maul hecheln und bei Bedarf trinken kann.",
+        "C": "Für einen kurzfristigen Gebrauch von wenigen Minuten kann eine enge Maulschlaufe aus weichem Material, mit der der Hund das Maul einfach nicht mehr aufmachen kann, akzeptabel sein.",
+        "D": "Bei Hunden, bei denen wirklich eine Verletzungsgefahr von anderen besteht, muss ein Maulkorb besondere Sicherheitskriterien erfüllen. Er muss so befestigt werden können, dass der Hund ihn nicht abstreifen kann und das Material und die Verarbeitung des Maulkorbs müssen besonders stabil sein."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 10,
+      "question": "Darf man ängstlichen Hunden einen Maulkorb aufziehen, wenn es die Situation erfordern würde?",
+      "options": {
+        "A": "Auf keinen Fall, weil der Hund noch mehr Angst bekommen würde.",
+        "B": "Wenn man den Hund schrittweise daran gewöhnt, stellt der Maulkorb keine Belastung dar.",
+        "C": "Ein ängstlicher Hund braucht sowieso keinen Maulkorb, weil er nicht aggressiv ist.",
+        "D": "Ängstliche Hunde könnten in Bedrängungssituationen beißen oder es können z. B. in öffentlichen Verkehrsmitteln Maulkorbpflicht für alle Hunde bestehen."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 15,
+      "question": "Welche der aufgeführten Erziehungshilfsmittel sind sinnvoll?",
+      "options": {
+        "A": "Leine und breites, nicht würgendes Halsband oder gut sitzendes Brustgeschirr, ggf. zusätzlich Kopfhalfter für Hunde.",
+        "B": "Halsbänder mit einem auf Knopfdruck auslösbaren Sprühstoß.",
+        "C": "Geräte, die für den Hund unangenehme Geräusche im Ultraschallbereich erzeugen, um unerwünschtes Verhalten auf Knopfdruck zu beeinflussen.",
+        "D": "Erziehungsgeschirre mit Zugwirkung unter den Achseln."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 20,
+      "question": "Welche Hilfsmittel in der Hundeerziehung sind tierschutzrechtlich bedenklich?",
+      "options": {
+        "A": "Stachelhalsbänder und unbegrenzte Zughalsbänder.",
+        "B": "Sehr schmale, einschneidende Halsbänder, wie z. B. Ketten, zur Führung an der Leine.",
+        "C": "Stromreizgeräte, Geräte mit unangenehmen bis schmerzhaften Ultraschalltönen, Halsbänder mit auslösbarem Sprüh- oder Luftstoß.",
+        "D": "Clicker als Ankündigung für eine Belohnung."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 36,
+      "question": "Welche Risiken gibt es, wenn man aus erzieherischen Maßnahmen etwas nach seinem Hund wirft, z. B. einen Schlüssel oder eine Wurfkette?",
+      "options": {
+        "A": "Der Hund kann Angst vor ähnlichen Geräuschen und Situationen bekommen. Z. B. kann es für einen Hund schwer sein zu unterscheiden, wann ein Schlüsselklimpern ihm gilt und wann nicht.",
+        "B": "Es gibt keine Risiken, es ist eine einfache Möglichkeit unerwünschtes Verhalten zu unterbrechen.",
+        "C": "Durch Schreck und Schmerz wird Stress erzeugt, der sich nachteilig auf das Lernen auswirkt und Unsicherheit und Angst fördert.",
+        "D": "Es kommt in vielen Fällen zu unbeabsichtigten Verknüpfungen und Verhaltensprobleme können gefördert oder ausgelöst werden."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 84,
+      "question": "Was ist ein Kopfhalfter für Hunde und was muss man bei der Verwendung berücksichtigen?",
+      "options": {
+        "A": "Ein Kopfhalfter ist ein spezieller Maulkorb, der dauerhaft das Maul des Hundes zusammenzieht, sodass er es nicht mehr aufmachen und beißen kann.",
+        "B": "Ein Kopfhalfter ähnelt einem Pferdehalfter, aber um die Schnauze ist eine flexible Schlaufe mit einem Ring für die Leine am unteren Ende. Es wird am sichersten mit einer Doppelleine verwendet. Der kleinere Haken der Leine wird am Kopfhalfter befestigt, der größere Haken am Halsband oder Brustgeschirr. Der Hund kann über das Kopfhalfter schmerzfrei gelenkt werden.",
+        "C": "An ein Kopfhalfter muss ein Hund schrittweise gewöhnt werden. Der/die Halter/in sollte mit professioneller Anleitung das sichere Führen des Hundes an einem Kopfhalfter erlernen.",
+        "D": "Mit einem Kopfhalfter muss ein Hund hecheln können. Es darf sich nicht schmerzhaft zusammenziehen und nicht in die Augen rutschen. Man muss auf eine sanfte Führung achten, um die Halswirbelsäule nicht zu belasten."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 87,
+      "question": "Welche Vorteile bietet die Verwendung eines Kopfhalfters zusätzlich zum Halsband oder Brustgeschirr?",
+      "options": {
+        "A": "Man kann mit Hilfe des Kopfhalfters den Kopf des Hundes sanft lenken und kontrollieren.",
+        "B": "Es bietet keine Vorteile. Im Gegenteil, die Verletzungsgefahr von Nase und Halswirbelsäule ist erheblich.",
+        "C": "Das Kräfteverhältnis zwischen Mensch und Hund wird zugunsten des Menschen verschoben.",
+        "D": "Keine, es hat den Nachteil, dass der zur Erziehung des Hundes notwendige Leinenruck nicht mehr ausgeführt werden kann."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 90,
+      "question": "Birgt der Einsatz von Sprühflaschen oder Rappeldosen bestimmte Gefahren?",
+      "options": {
+        "A": "Der Hund kann Angst vor ähnlichen Geräuschen und Situationen bekommen.",
+        "B": "Es ist eine einfache Möglichkeit unerwünschtes Verhalten zu unterbrechen.",
+        "C": "Durch Schreck wird Stress erzeugt.",
+        "D": "Es kommt in vielen Fällen zu unbeabsichtigten Verknüpfungen und Verhaltensprobleme können gefördert werden."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 100,
+      "question": "Welche Hilfsmittel können bei Problemen mit der Leinenführigkeit hilfreich sein?",
+      "options": {
+        "A": "unbegrenzte Zughalsbänder.",
+        "B": "Kopfhalfter ohne einschnürende Zugwirkung.",
+        "C": "Brustgeschirre, bei denen man die Leine vorne an der Brust des Hundes einhakt (sog. Harness-Geschirre). Dies ist nur sinnvoll bei Hunden, die daran nicht so sehr ziehen, dass das Geschirr ständig stark das Vorderbein nach vorne drückt.",
+        "D": "Halsband mit einer Leine, an der man gut rucken kann."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 168,
+      "question": "Birgt der Einsatz von würgenden oder schmerzhaft einschnürenden Geschirren, Halsbändern oder Kopfhalftern bestimmte Gefahren?",
+      "options": {
+        "A": "Der Hund kann durch die schlechten Erfahrungen mit seinem Halter Vertrauen in ihn verlieren und Angst vor ihm bekommen.",
+        "B": "Es birgt keine Gefahr, wenn man es richtig einsetzt. Der Hund lernt damit am besten, nicht an der Leine zu ziehen.",
+        "C": "Durch die würgende und/oder schmerzhafte Einwirkung wird Stress erzeugt.",
+        "D": "Es kommt in vielen Fällen zu fehlerhaften Verknüpfungen und die Hunde können ängstlicher und aggressiver werden."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

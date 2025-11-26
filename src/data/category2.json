@@ -1,0 +1,162 @@
+{
+  "category": "2 Ausdrucksverhalten Fragen",
+  "category_description": "Fragen zum Ausdrucksverhalten und zur Körpersprache von Hunden",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Was sind typische Jagdverhaltensweisen?",
+      "options": {
+        "A": "Suchen nach Beute.",
+        "B": "Hetzen.",
+        "C": "Schütteln der Beute.",
+        "D": "Anschleichen und Vorstehen."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 31,
+      "question": "Woran kann man erkennen, ob ein Hund einem anderen gegenüber Imponierverhalten zeigt?",
+      "options": {
+        "A": "Er zeigt einen starren Blick am Gegner vorbei.",
+        "B": "Er macht sich groß (Kopf hoch, Ohren aufgerichtet, steifer Gang, Schwanz hoch).",
+        "C": "Er bellt und legt die Ohren an.",
+        "D": "Er stellt den Schwanz steil auf und vor Erregung wird oft ein schnelles Wedeln mit wenig Ausschlag gezeigt."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 41,
+      "question": "Was bedeutet es, wenn ein Hund einem anderen den Kopf auf den Rücken legt?",
+      "options": {
+        "A": "Er ist unterwürfig.",
+        "B": "Er macht eine Spielaufforderung.",
+        "C": "Er ist müde.",
+        "D": "Er zeigt eine Imponiergeste."
+      },
+      "correct_answers": [
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 51,
+      "question": "Was bedeutet es, wenn ein Hund einen anderen Hund oder einen Menschen in angespannter Körperhaltung mit dem Blick fixiert?",
+      "options": {
+        "A": "Es bedeutet, dass er den anderen gernhat.",
+        "B": "Es ist ein harmloses Imponierverhalten.",
+        "C": "Es ist ein offensives Drohverhalten.",
+        "D": "Es ist ein positives Sozialverhalten."
+      },
+      "correct_answers": [
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 61,
+      "question": "Was für eine Bedeutung hat es, wenn sich ein Hund flach auf den Boden legt und einen entgegenkommenden Hund mit dem Blick fixiert?",
+      "options": {
+        "A": "Er möchte vermutlich einen ‚Angriff' starten. Dieser Angriff kann spielerisch oder ernst ausgerichtet sein.",
+        "B": "Manche Hunde starten aus der Position keinen Angriff, sondern schaffen es einfach aufzustehen, wenn der andere Hund angekommen ist und gehen in normalen Sozialkontakt über.",
+        "C": "Es hat gar nichts mit dem anderen Hund zu tun, sondern ist ein Zeichen von starken Bauchschmerzen.",
+        "D": "Der liegende Hund macht sich klein, weil er Angst hat."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 86,
+      "question": "Welche der aufgezählten Gesten können Hunde zur Beschwichtigung einsetzen?",
+      "options": {
+        "A": "Sich-über-die-Nase-Lecken.",
+        "B": "Pföteln.",
+        "C": "Kopf abwenden.",
+        "D": "Einen starren Blick nach vorne."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 88,
+      "question": "Was sind Anzeichen von Angst und Stress?",
+      "options": {
+        "A": "Der Hund macht sich klein und versucht zu fliehen.",
+        "B": "Er hechelt und hat dabei den Schwanz eingeklemmt und die Ohren nach hinten gelegt.",
+        "C": "Er ist unruhig, gähnt und leckt sich häufig über die Nase.",
+        "D": "Er zeigt ein breites Wedeln mit dem Schwanz auf Höhe der Rückenlinie."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 121,
+      "question": "Nennen Sie typische Signale, an denen man ängstlich-unterwürfiges Verhalten erkennen kann.",
+      "options": {
+        "A": "Blickkontakt halten.",
+        "B": "Sich klein machen und ducken.",
+        "C": "Den Schwanz einziehen und die Ohren anlegen.",
+        "D": "Harnen bei geduckter Haltung oder auf dem Rücken liegend."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 126,
+      "question": "Welche Verhaltensweisen zeigt ein Hund, der Angst hat und sich bedroht fühlt?",
+      "options": {
+        "A": "Er versucht zu fliehen.",
+        "B": "Er versucht anzugreifen, wenn er nicht ausweichen kann.",
+        "C": "Er wedelt und bettelt nach Futter.",
+        "D": "Er pinkelt unter sich."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 167,
+      "question": "Was sind mögliche Stresssymptome eines Hundes?",
+      "options": {
+        "A": "Hecheln.",
+        "B": "Unruhiges Verhalten.",
+        "C": "Starkes Haaren und ggf. stumpfes Fell, bei länger anhaltendem Stress.",
+        "D": "Nach vorne gerichtete Ohren und Interesse an der Umwelt."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    }
+  ]
+}

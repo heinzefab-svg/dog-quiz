@@ -1,0 +1,156 @@
+{
+  "category": "14 Probleme - Maßnahmen",
+  "category_description": "Fragen zu Maßnahmen bei Verhaltensproblemen und professioneller Hilfe",
+  "questions": [
+    {
+      "id": 23,
+      "question": "Wer wäre der beste Ansprechpartner, wenn es zu Problemen im Zusammenleben kommt?",
+      "options": {
+        "A": "Der Züchter oder ein anderer Halter derselben Rasse.",
+        "B": "Ein Tierarzt/ärztin, der/die sich auf Verhalten spezialisiert hat.",
+        "C": "Ein anderer Hundebesitzer, der seinen Hund gut unter Kontrolle hat.",
+        "D": "Ein/e moderne/r und erfahrene/r Hundetrainer/in, der/die im Bereich Problemverhalten fachlich nachweislich korrekt geschult ist und über positive Bestärkung arbeitet."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 71,
+      "question": "Mein Hund hat beim Tierarzt/ärztin auf dem Tisch sehr viel Angst und knurrt auch. Was sind sinnvolle Maßnahmen?",
+      "options": {
+        "A": "Ich bleibe selbst möglichst ruhig und entspannt.",
+        "B": "Ich sollte mich über ein ‚Medical Training' informieren, um schrittweise über positive Bestärkung die Angst meines Hundes zu reduzieren.",
+        "C": "Das Knurren muss konsequent unterbunden werden, damit der Hund lernt, dass er sich nicht aggressiv verhalten darf.",
+        "D": "Man sollte ihn einmal laut anschreien oder ein lautes Geräusch machen, damit er aufhört sich so aufzuführen."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 77,
+      "question": "Was ist zu tun, wenn ein Hund, der immer lieb und friedlich war, ganz plötzlich aggressives Verhalten zeigt?",
+      "options": {
+        "A": "Der Hund sollte schnellstens dem/der Tierarzt/ärztin vorgestellt werden, denn er könnte Schmerzen oder eine Erkrankung haben, die ihn belastet.",
+        "B": "Man sollte ihn sofort eindrücklich bestrafen, denn so etwas darf man nicht durchgehen lassen.",
+        "C": "Gar nichts. Aggressives Verhalten ist ein normales Hundeverhalten.",
+        "D": "Man sollte lediglich die Fütterung umstellen und mehr Kohlenhydrate füttern."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 81,
+      "question": "Führt eine Kastration des Rüden immer zur Verminderung der Aggression gegenüber anderen Rüden?",
+      "options": {
+        "A": "Uneingeschränkt ja.",
+        "B": "Grundsätzlich nein.",
+        "C": "Nicht immer. Durch eine Kastration wirkt ein Rüde nicht mehr als Konkurrent auf andere Rüden und löst dadurch weniger aggressives Verhalten anderer Rüden aus. Zusätzlich kann ihm selbst das Streiten weniger wichtig werden. Es beeinflusst aber nicht sein erlerntes Sozialverhalten.",
+        "D": "Nur wenn männliche Hormone die Ursache für das aggressive Verhalten sind."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 92,
+      "question": "Was ist zu tun, wenn ein Hund Angstprobleme hat?",
+      "options": {
+        "A": "Man sucht die Situation, bei der der Hund sehr viel Angst hat, immer wieder auf, damit der Hund sich gewöhnen kann.",
+        "B": "Man meidet die angstauslösenden Situationen soweit möglich und sucht einen Tierarzt/-ärztin auf, der/die auf Verhaltenstherapie spezialisiert ist.",
+        "C": "Angstprobleme können ein erhebliches Leiden darstellen und müssen behandelt werden.",
+        "D": "Solange das Angstproblem des Hundes im eigenen Alltag nicht stört, braucht man nichts zu unternehmen."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 125,
+      "question": "Was sind sinnvolle Maßnahmen bei einem hyperaktiven Hund?",
+      "options": {
+        "A": "Man überprüft das Ausmaß an Beschäftigung, das man seinem Hund täglich bietet, ob es zu wenig oder zu viel ist. Ein besonders aktiver Hund kann bis zu drei Stunden täglich Auslauf benötigen.",
+        "B": "Man schickt den Hund zu Hause immer wieder strikt auf seinen Platz und zwingt ihn dort liegen zu bleiben, damit er lernt, sich ruhig zu verhalten.",
+        "C": "Man schenkt dem Hund zu Hause immer dann ruhige Aufmerksamkeit, wenn er sich ruhig verhält. Zu einer gemeinsamen Beschäftigung zu Hause fordert man den Hund nur dann auf, wenn er sich gerade ruhig verhält und keine Aufmerksamkeit fordert.",
+        "D": "Man findet ein Hobby im Hundesport oder einer Hundeschule, das dem Hund und einem selbst Spaß macht."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 160,
+      "question": "Wie kann man einem Hund klar machen, dass ein bestimmtes Verhalten unerwünscht ist?",
+      "options": {
+        "A": "Wenn man laut schimpft, weiß der Hund, dass man mit seinem Verhalten nicht zufrieden ist und wird es nicht wieder zeigen.",
+        "B": "Wenn man weiß, was der Hund gerne in dem Moment haben oder erreichen möchte, kann man es ihm vorenthalten. Nur wenn er artig ist, kann er es bekommen.",
+        "C": "Unerwünschte Verhaltensweisen, die durch Angst oder Stress ausgelöst werden, lassen sich in kritischen Situationen nicht einfach beenden, weil sie emotional bedingt sind. Da Emotionen nicht einfach abgestellt werden können, müssen solche Verhaltensweisen Schritt für Schritt bearbeitet werden.",
+        "D": "Da es bei unerwünschten Verhaltensweisen oft schwierig sein kann, sie sinnvoll in kritischen Situationen zu beeinflussen, ist es besonders effektiv, möglichst vorausschauend den Hund so zu lenken, dass er sich von Anfang an erwünscht verhalten kann."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 163,
+      "question": "Ihr Hund hat in die Wohnung gemacht. Wie reagieren Sie?",
+      "options": {
+        "A": "Ich nehme den Hund mit zu der Stelle, zeige ihm sein Geschäft und schimpfe mit ihm.",
+        "B": "Ich packe den Hund, trage ihn zum Ort des Vergehens und stoße ihn mit der Nase hinein, damit er es nie wieder macht.",
+        "C": "Ich begrüße den Hund normal und versuche mir meinen Ärger nicht anmerken zu lassen. Wahrscheinlich habe ich ihn zu lange allein gelassen, so dass er nicht einhalten konnte.",
+        "D": "Ich beseitige das Geschäft kommentarlos."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 170,
+      "question": "Was kann man tun, wenn man nach einigen problematischen Begegnungen mit anderen Hunden feststellt, dass der eigene Hund mit Artgenossen nicht immer gut klarkommt?",
+      "options": {
+        "A": "Man sollte Rat suchen bei einem/r modernen und erfahrenen Hundetrainer/in, der/die über positive Bestärkung arbeitet oder einem/r Tierarzt/ärztin, der/die auf Verhaltenstherapie spezialisiert ist.",
+        "B": "Man muss nichts unternehmen, denn es ist normal, dass sich Hunde auf dem Spaziergang mit Artgenossen beißen.",
+        "C": "Man sollte so einen Hund nicht behalten, sondern ins Tierheim geben oder einschläfern lassen, denn er stellt eine Gefahr dar.",
+        "D": "Man kann nicht mehr tun, als dem Hund einen Maulkorb anzulegen. Das Verhalten kann man nicht beeinflussen."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 188,
+      "question": "Was muss man bei dem Umgang mit Ängsten von Hunden beachten?",
+      "options": {
+        "A": "An Ängsten kann man am effektivsten beginnen zu arbeiten, wenn der Hund entspannt ist.",
+        "B": "Solange es einen selbst im Alltag nicht stört, braucht man sich um Ängste von seinem Hund nicht zu kümmern.",
+        "C": "Man sollte den Hund regelmäßig mit seinen Ängsten konfrontieren, damit er sich daran gewöhnen kann.",
+        "D": "Angst ist ein starkes Gefühl, dass erhebliche Leiden verursachen kann. Daher sollte man professionelle Hilfe in Anspruch nehmen."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

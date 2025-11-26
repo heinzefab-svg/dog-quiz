@@ -1,0 +1,159 @@
+{
+  "category": "7 Strafen",
+  "category_description": "Fragen zu Strafen in der Hundeerziehung und deren negative Auswirkungen",
+  "questions": [
+    {
+      "id": 5,
+      "question": "Ist der Einsatz von Stromreizgeräten, unangenehmen Hochfrequenztönen und anderen Schmerz- und Schreckreizen für die Hundeerziehung sinnvoll?",
+      "options": {
+        "A": "Es ist eine einfache und schnelle Methode, die sehr erfolgreich in der Erziehung eingesetzt werden kann.",
+        "B": "Der Hund weiß dann, dass er nicht mehr machen kann, was er will.",
+        "C": "Die Gefahr von Fehlverknüpfungen und Angstverhalten als Folge ist zu groß.",
+        "D": "Strafreize lösen beim Hund Stress aus, der je nach verwendetem Reiz und individueller Sensibilität erheblich sein kann."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 9,
+      "question": "Was ist zu der Anwendung von Leinenrucken zur Erziehung zu sagen?",
+      "options": {
+        "A": "Leinenrucke sind notwendig für die Erziehung zur Leinenführigkeit.",
+        "B": "Jegliche Anwendung von Leinenrucken kann zu Schmerzen führen und gilt als nicht tierschutzkonform.",
+        "C": "Für verhaltensauffällige Hunde ist die Arbeit mit Leinenrucken oftmals notwendig, um sie überhaupt trainieren zu können.",
+        "D": "Ständige Leinenrucke können zu verschiedenen körperlichen Schäden im Halsbereich führen."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 59,
+      "question": "Was bedeutet es, wenn man seinen Hund bei unerwünschtem Verhalten blockiert?",
+      "options": {
+        "A": "Unter Blockieren wird häufig verstanden, dass man sich körpersprachlich mehr oder minder offensichtlich drohend vor den Hund stellt.",
+        "B": "Empfindet der Hund es als bedrohlich, dass sein Halter ihn blockiert, fördert das Stress und Unsicherheit und damit auf Dauer aggressive oder andere unerwünschte Verhaltensweisen.",
+        "C": "Blockieren oder Schubsen eines Hundes mit unerwünschten Verhaltensweisen bringt den Hund dazu, ruhiges und entspanntes Verhalten zu lernen.",
+        "D": "Durch das Blockieren eines Hundes kann man effektiv unerwünschte Verhaltensweisen unterbinden, sodass der Hund verstehen kann, was er darf und was nicht."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 99,
+      "question": "Welche Behandlungen können das Vertrauensverhältnis zwischen Hund und Halter schwächen?",
+      "options": {
+        "A": "Der Einsatz von Strafen.",
+        "B": "Ein Maßregeln des Hundes, wenn er in einer Situation unerwünschtes Verhalten zeigt.",
+        "C": "Viel Beschäftigung mit dem Hund.",
+        "D": "Den Hund häufig in Situationen zwingen, die er schrecklich findet, wie z. B. unangenehmes oder gar schmerzhaftes Bürsten."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 129,
+      "question": "Besteht die Gefahr, durch Strafen einen Hund so zu schockieren, dass er das Vertrauen in einen verliert?",
+      "options": {
+        "A": "Nicht, wenn man vorher ein gutes Verhältnis hatte.",
+        "B": "Bei sensiblen Hunden manchmal sogar mit Kleinigkeiten, besonders wenn die Handlung für den Hund ‚unlogisch' ist.",
+        "C": "Durch inkonsequentes und launisches Vorgehen.",
+        "D": "Nur bei generell ängstlichen Hunden."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 138,
+      "question": "Was kann passieren, wenn man bei einem Hund Strafen als Erziehungsmaßnahme einsetzt?",
+      "options": {
+        "A": "Er wird die Übung schnell und zuverlässig ausführen, denn so lernt er, dass er gehorchen muss.",
+        "B": "Er kann scheu und unsicher werden, weil er kein Vertrauen mehr zu seinem Besitzer hat.",
+        "C": "Es passiert nichts Schlimmes. Hunde untereinander verhalten sich auch rigoros. Der Hund wird also große Freude bei den Übungen haben, wenn er erst verstanden hat, worum es geht.",
+        "D": "Er könnte unter Umständen aggressiv reagieren, weil er sich bedroht fühlt."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 145,
+      "question": "Wie kann man vermeiden, dass der Hund durch Strafen das Vertrauen in seinen Besitzer verliert?",
+      "options": {
+        "A": "Wenn man Ignorieren in geeigneten Situationen als Methode anwendet.",
+        "B": "Wenn das Unerwünschte, das der Hund gerne tun würde, für ihn erfolglos bleibt oder keinen Spaß macht, wie z. B. ein Bitterstoff auf einem Möbel, das der Hund ankauen möchte.",
+        "C": "Wenn man eine Rappeldose oder Wasserspritze verwendet, verbindet der Hund diese Strafe nie mit seinem Besitzer.",
+        "D": "Beim Schütteln am Nackenfell, denn eine Hündin maßregelt auf diese Art und Weise auch ihre Welpen."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 149,
+      "question": "Wie verstehen Hunde strafende Handlungen durch ihre Besitzer?",
+      "options": {
+        "A": "Hunde lernen dadurch, was sie dürfen und was nicht.",
+        "B": "Hunde lernen dadurch, dass Menschen sich in bestimmten Situationen aggressiv verhalten können.",
+        "C": "Hunde lernen dadurch Respekt vor Ihren Besitzern.",
+        "D": "Hunde können strafende Handlungen ihrer Besitzer mit der Stimmung ihrer Besitzer, der Situation oder zufällig gleichzeitig auftretenden Reizen in Verbindung bringen."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 150,
+      "question": "Können im Zusammenhang mit Strafen Probleme auftreten?",
+      "options": {
+        "A": "Der Hund kann Angst vor dem Strafenden, ihm ähnlichen Personen und ähnlichen Situationen bekommen.",
+        "B": "Der Hund kann aggressiv werden, wenn er sich bedroht fühlt oder Schmerzen empfindet.",
+        "C": "Bei jeder Strafe besteht das Risiko, dass der Hund andere gleichzeitig auftretende Reize verknüpft, sodass Problemverhaltensweisen gefördert werden können.",
+        "D": "Man braucht keine Probleme zu erwarten, denn Strafe ist etwas, was der Hund immer versteht."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 192,
+      "question": "Was sind mögliche Nebenwirkungen von dem Einsatz von Schreck- und Strafreizen zur Erziehung?",
+      "options": {
+        "A": "Wenn die Strafe zeitlich sofort auf das unerwünschte Verhalten erfolgt, kommt es auch nicht zu Nebenwirkungen, weil der Hund dann sicher verstehen kann, worum es geht.",
+        "B": "Vertrauenseinbußen zum Halter.",
+        "C": "Verknüpfung mit zufällig gleichzeitig auftretenden Reizen, was die Ursache für Problemverhaltensweisen werden kann. Z. B. kann ein Leinenruck dazu führen, dass Leinenaggression gegenüber anderen Hunden ausgelöst oder verschlechtert wird.",
+        "D": "Angst vor ähnlichen Reizen, die dem Schreck- oder Strafreiz ähneln, wie z. B. Angst vor Zischgeräuschen durch die Verwendung einer Wasserspritze."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "category": "12 Probleme - Verständnis",
+  "category_description": "Fragen zum Verständnis von Problemverhalten bei Hunden",
+  "questions": [
+    {
+      "id": 21,
+      "question": "Was kann man über die Pubertätsphase von Hunden sagen?",
+      "options": {
+        "A": "In der Pubertätsphase entwickelt sich die Fortpflanzungsfähigkeit von Hunden, das Interesse am anderen Geschlecht nimmt stark zu und das eigene Geschlecht wird vermehrt als Konkurrent betrachtet.",
+        "B": "Die Pubertät kann schon ab einem Alter von 5 Monaten einsetzen.",
+        "C": "Während der Pubertät sind Hunde häufig unkonzentriert und abgelenkt.",
+        "D": "Während der Pubertätsphase sollte man den Hund für unerwünschtes Verhalten und Ungehorsam strikt bestrafen, z.B. durch ein heftiges Schütteln im Nackenfell, denn der Mensch muss sich als Chef durchsetzen."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 24,
+      "question": "Ist es für die Entwicklung des Welpen sehr wichtig, ob er in seinen ersten Lebenswochen zahlreiche Außenreize entspannt und positiv kennenlernt?",
+      "options": {
+        "A": "Je mehr Reize der Welpe entspannt kennen lernt, desto mehr Verknüpfungen der Nervenbahnen werden in seinem Gehirn angelegt.",
+        "B": "Vielfältige Reizsituationen geben dem Welpen Selbstvertrauen und Sicherheit im Umgang mit neuen Situationen.",
+        "C": "Ein Welpe kann noch gar keine Reize verarbeiten.",
+        "D": "Die Entwicklung des Gehirns hängt nicht vom Angebot verschiedener Reize ab, sondern geschieht automatisch."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 67,
+      "question": "Welche Verhaltensweisen des Besitzers können bei seinem Hund aggressives Verhalten auslösen, wenn der Hund unsicher ist oder ein Schmerzproblem beim Hund vorliegt?",
+      "options": {
+        "A": "Er beugt sich über den Hund, um die Leine anzulegen.",
+        "B": "Er schiebt den Hund zur Seite.",
+        "C": "Er ignoriert den Hund, wenn dieser mit einem Ball ankommt und spielen möchte.",
+        "D": "Er greift plötzlich nach dem Hund."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 72,
+      "question": "Aus welchen Gründen kann ein Hund an der Leine ziehen?",
+      "options": {
+        "A": "Er ist dominant und will daher seinem Besitzer gegenüber durchsetzen, wo es lang geht.",
+        "B": "Er hat nicht gelernt, an lockerer Leine zu gehen.",
+        "C": "Es fällt ihm zu schwer so langsam zu gehen wie sein Halter oder ist zu abgelenkt, um sich auf artiges Gehen konzentrieren zu können.",
+        "D": "Er empfindet Angst und Stress und versucht aus der Situation weg zu ziehen."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 82,
+      "question": "Ist es ein Zeichen von Aggression, wenn ein Hund auf dem Spaziergang zu einer fremden Person hinrennt und diese unvermittelt anspringt?",
+      "options": {
+        "A": "Nicht unbedingt, aber es ist ein Verhalten, das man über Training beeinflussen sollte, da es Leute gibt, die Angst vor Hunden haben, körperlich einem Hund nicht gewachsen sind oder es wegen ihrer Kleidung oder einfach grundsätzlich nicht mögen.",
+        "B": "Ja, Anspringen ist ein aggressives Verhalten.",
+        "C": "Nein, das Anspringen ist immer als Spielaufforderung zu verstehen.",
+        "D": "Nein, es ist grundsätzlich ein Zeichen großer Zuneigung."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 103,
+      "question": "Ist es wichtig mit einem Hund über positive Bestärkung zu üben, dass er sich überall anfassen lässt?",
+      "options": {
+        "A": "Es fördert das gegenseitige Vertrauen.",
+        "B": "Es erleichtert Pflegemaßnahmen.",
+        "C": "Körperkontakte stärken die Bindung.",
+        "D": "Ein Hund, der gut untergeordnet ist, lässt sich überall problemlos anfassen, ohne dass man es extra üben muss."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 114,
+      "question": "Was hat es zu bedeuten, wenn ein Hund seinen Knochen oder Spielzeug nicht abgeben will?",
+      "options": {
+        "A": "Es handelt sich um einen Hund, dem die Ressource Knochen oder Spielzeug besonders wichtig ist, sodass er über positive Bestärkung lernen muss, Dinge gerne abzugeben.",
+        "B": "Ein Hund verteidigt nur seinen Knochen oder Spielzeug gegen Menschen, die er nicht als Rudelführer anerkennt.",
+        "C": "Hunde, die Spielzeug oder Knochen gegen Menschen verteidigen, wollen damit beweisen, dass sie dem Menschen übergeordnet sind.",
+        "D": "Es kann sich um einen Hund handeln, der bereits dafür bestraft wurde, wenn er etwas nicht hergeben wollte. Dies führt oft dazu, dass ein Hund sich aus Angst vor Strafen dazu genötigt sieht, noch aggressiver zu reagieren."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 119,
+      "question": "Wie verhalten Sie sich, wenn Ihr Hund frei läuft und Ihnen eine Person mit angeleintem Hund entgegenkommt?",
+      "options": {
+        "A": "Ich lasse meinen Hund immer zu dem anderen Hund laufen, denn meiner beißt nicht und Sozialkontakte mit Artgenossen sind wichtig für sein Wohlbefinden.",
+        "B": "Ich rufe meinen Hund zu mir und leine ihn auch an. Ich lasse ihn erst wieder frei, wenn ich sicher weiß, dass er nicht zu dem anderen Hund laufen wird.",
+        "C": "Ich leine meinen Hund ebenfalls an. Dann kann ich aus ausreichendem Abstand den Besitzer des anderen Hundes fragen, ob mein Hund seinen Hund begrüßen darf. Falls ja, kann ich meinen Hund wieder ableinen, sofern damit zu rechnen ist, dass sich die Hunde verstehen werden.",
+        "D": "Ich rufe meinen Hund und leine ihn an. Ich stelle mich mit meinem Hund so hin oder gehe mit so viel Abstand weiter, dass der andere Hundebesitzer ausreichend Abstand halten kann, wenn er mit seinem Hund vorbeigeht. Während dieser Begegnung achte ich darauf, dass mein Hund den anderen Hund nicht belästigt oder provoziert."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 123,
+      "question": "Was hat es zu bedeuten, wenn ein Hund an der Leine zieht?",
+      "options": {
+        "A": "Er erkennt seinen Besitzer nicht als Rudelführer an.",
+        "B": "Er ist bewegungsfreudig und schafft es nicht, so langsam zu laufen wie der Mensch.",
+        "C": "Er versteht nicht, was sein Besitzer von ihm möchte.",
+        "D": "Er hat noch nicht oder noch nicht in allen Situationen und Stimmungen gelernt, an lockerer Leine zu laufen."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 151,
+      "question": "Warum kann ein Hund dazu neigen, ständig Aufmerksamkeit bei seinem Besitzer zu fordern?",
+      "options": {
+        "A": "Manche Hunde sind einfach dreist, was konsequent unterbunden werden muss.",
+        "B": "Hunde bieten ihren Besitzern viele Verhaltensweisen an. Sie behalten alles in Ausmaß und Häufigkeit bei, was bei ihren Besitzern zu Aufmerksamkeit führt.",
+        "C": "Besonders aktive Hunde und Hunde, die zu wenig Beschäftigung haben, können vermehrt zu Aufmerksamkeit heischendem Verhalten neigen.",
+        "D": "Hunde, die Aufmerksamkeit bei ihren Besitzern fordern, wollen ihre Besitzer manipulieren, um sie zu beherrschen."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    }
+  ]
+}

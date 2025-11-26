@@ -1,0 +1,160 @@
+{
+  "category": "19 Krankheiten",
+  "category_description": "Fragen zu Krankheiten, Impfungen und Parasiten bei Hunden",
+  "questions": [
+    {
+      "id": 40,
+      "question": "Warum ist es wichtig, seinen Hund regelmäßig gegen Tollwut impfen zu lassen?",
+      "options": {
+        "A": "Die Tollwutimpfung ist gesetzlich vorgeschrieben.",
+        "B": "Tollwut ist eine Infektionskrankheit, mit der sich auch Menschen infizieren können.",
+        "C": "Eine Tollwutimpfung ist überflüssig. Tollwut kommt in Deutschland überhaupt nicht mehr vor.",
+        "D": "Tollwutgeimpfte Hunde stehen gesetzlich besser da als ungeimpfte. Weiterhin ist sie für eine Einreise in viele Länder und Rückreise nach Deutschland vorgeschrieben."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 142,
+      "question": "Was ist zu tun, wenn der Hund seit zwei Tagen schlimmen Durchfall und Erbrechen hat?",
+      "options": {
+        "A": "Man sollte zum/r Tierarzt/ärztin gehen. Der Hund kann innerhalb weniger Tage in lebensbedrohlicher Weise austrocknen.",
+        "B": "Man sollte dem Hund Kohletabletten verabreichen.",
+        "C": "Man muss dafür Sorge tragen, dass der Hund genug Flüssigkeit bekommt, die er auch bei sich behält, notfalls über eine Infusion von dem/der Tierarzt/ärztin.",
+        "D": "Man sollte dem Hund alle zwei Stunden eine kleine Portion Milch geben."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 144,
+      "question": "Gibt es Erkrankungen bei Hunden, gegen die man impfen kann, die auch Menschen bekommen können?",
+      "options": {
+        "A": "Keine.",
+        "B": "Tollwut, wenn Speichel eines tollwuterkrankten Tieres in die Blutbahn kommt, z.B. durch einen Biss.",
+        "C": "Leptospirose.",
+        "D": "Krankheiten befallen immer nur eine Spezies."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 146,
+      "question": "Die Magendrehung ist eine lebensgefährliche Erkrankung. Kreuzen Sie die passenden Aussagen an.",
+      "options": {
+        "A": "Eine Magendrehung tritt hauptsächlich bei großen Hunderassen auf.",
+        "B": "Hunde sollten direkt nach dem Fressen möglichst eine Ruhepause von zwei Stunden einhalten.",
+        "C": "Hunde sollen direkt nach dem Fressen laufen, um schneller verdauen zu können.",
+        "D": "Die meisten Hunde profitieren von zwei bis drei Mahlzeiten am Tag."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 152,
+      "question": "Muss man auf die Zahngesundheit seines Hundes achten?",
+      "options": {
+        "A": "Hunde können Probleme mit dem Zahnfleisch und den Zähnen bekommen, was zu erheblichen Leiden, Schmerzen und sogar Folgeschäden an Organen führen kann.",
+        "B": "Nur, wenn der Hund beginnt aus dem Maul zu riechen, kann man sich überlegen, ob man etwas unternehmen möchte.",
+        "C": "Bei Hunden sind die Zähne von Natur aus gesund, wenn man ihnen regelmäßig etwas zum Kauen gibt.",
+        "D": "Häufig merkt man erst, wenn der Hund weniger kaut, schlechter frisst oder aus dem Maul riecht, dass Probleme bestehen. Daher sollte man regelmäßig Zähne und Zahnfleisch kontrollieren bzw. kontrollieren lassen, um größeren Schäden vorzubeugen."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 154,
+      "question": "Was sind Anzeichen eines Flohbefalls?",
+      "options": {
+        "A": "Häufigeres Kratzen als sonst.",
+        "B": "Ein Hund, der regelmäßig gebadet wird, kann keine Flöhe haben.",
+        "C": "Beim Kämmen findet man kleine, schwarze Krümel im Fell.",
+        "D": "Flohbefall kann nur der/die Tierarzt/ärztin mittels eines aufwendigen Testverfahrens feststellen."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 156,
+      "question": "Was ist beim Verfüttern von Geflügel zu beachten?",
+      "options": {
+        "A": "Hunde sollten generell keine Anteile von Geflügel bekommen.",
+        "B": "Geflügelknochen splittern leicht und können Verletzungen im Verdauungsapparat verursachen.",
+        "C": "Hunde sollten kein rohes Geflügelfleisch bekommen, da damit Salmonellen übertragen werden können. Auch Einfrieren tötet die Durchfall verursachenden Salmonellen nicht ab.",
+        "D": "Beim Verfüttern von Geflügel muss nichts Besonderes beachtet werden."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 176,
+      "question": "Welche Krankheiten können in Deutschland durch Erreger in Zecken übertragen werden?",
+      "options": {
+        "A": "FSME und Borreliose.",
+        "B": "Keine.",
+        "C": "Würmer.",
+        "D": "Anaplasmose, Babesiose, Ehrlichiose."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 180,
+      "question": "Welche Impfungen können für meinen Hund sinnvoll sein?",
+      "options": {
+        "A": "Die Grundimmunisierung von Welpen (3 Impfungen im Abstand von 3-4 Wochen mit ca. 8, 12 und 16 Lebenswochen) und die darauffolgende Impfung nach einem Jahr.",
+        "B": "Impfungen braucht mein Hund nur, wenn ich mit ihm ins Ausland fahren möchte.",
+        "C": "Auffrischungsimpfungen gegen Parvovirose, Staupe, Hepatitis, Leptospirose, Tollwut und Zwingerhusten-Komplex.",
+        "D": "Wenn Impfungen von vielen nicht vorgenommen werden, nehmen die entsprechenden Krankheiten und daraus entstehenden Todesfälle wieder zu."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 181,
+      "question": "An welchen Erkrankungen leiden Hunde oft, wenn sie aus Süd- oder Osteuropa kommen?",
+      "options": {
+        "A": "Leishmaniose.",
+        "B": "Ehrlichiose, Anaplasmose, Babesiose.",
+        "C": "Rickettsiose.",
+        "D": "Herzwürmer."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

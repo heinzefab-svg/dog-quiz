@@ -1,0 +1,162 @@
+{
+  "category": "17 Gesundheit",
+  "category_description": "Fragen zur Gesundheit, Ernährung und tierärztlichen Versorgung von Hunden",
+  "questions": [
+    {
+      "id": 94,
+      "question": "Sollte man, wenn man einen Hund übernimmt, mit dem Hund zum/r Tierarzt/ärztin gehen, auch wenn der Hund einen gesunden Eindruck macht?",
+      "options": {
+        "A": "Ja, damit der/die Tierarzt/ärztin anhand des Impfpasses überprüfen kann, ob der Hund ausreichend geimpft ist.",
+        "B": "Ja, damit sich der Hund an den/die Tierarzt/ärztin und die Abläufe in der Praxis gewöhnt.",
+        "C": "Nein, so etwas ist nicht notwendig und wäre eine übermäßige Belastung für den Hund.",
+        "D": "Ja, damit der/die Tierarzt/ärztin den Hund möglichst auch einmal gesund kennen lernen kann. Er/Sie kann dann krankheitsbedingte Veränderungen besser einordnen."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 97,
+      "question": "Gibt es Dinge, die man prophylaktisch tun kann, damit der Hund gesund bleibt?",
+      "options": {
+        "A": "Ja. Der Hund sollte z.B. regelmäßig geimpft und entwurmt werden.",
+        "B": "Ja, man sollte den ganzen Körper z.B. beim Streicheln täglich genau anschauen, um Veränderungen oder Parasitenbefall sofort zu erkennen.",
+        "C": "Ja, man sollte den Hund regelmäßig bei dem/der Tierarzt/ärztin vorstellen, um Erkrankungen frühzeitig erkennen zu können.",
+        "D": "Ja, einmal wöchentlich sollte man den Hund baden."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 105,
+      "question": "In welchem Bereich liegt die normale Körpertemperatur des Hundes?",
+      "options": {
+        "A": "Im After gemessen ca. 38 °C.",
+        "B": "Im After gemessen ca. 36 °C.",
+        "C": "Solange die Nase kühl und feucht ist, hat der Hund kein Fieber. Fiebermessen ist dann nicht notwendig.",
+        "D": "Ab einer Temperatur von 39,3 °C hat ein erwachsener Hund Fieber."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 127,
+      "question": "Wie viel sollte ein Hund zu fressen bekommen?",
+      "options": {
+        "A": "So viel, wie er braucht, damit er eine schlanke Figur hat und weder zu- noch abnimmt.",
+        "B": "Allen Hunden kann man Futter zur freien Verfügung hinstellen, sie fressen nur so viel, wie sie brauchen.",
+        "C": "Wenn ein Hund nicht gut gehorcht, sollte man ihm zur Strafe an dem Tag nichts zu fressen geben.",
+        "D": "Hunde sollten immer ein bisschen Hunger haben, denn sonst neigen sie zu Ungehorsam."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 130,
+      "question": "In welcher Form sollte man dem Hund das Fressen darreichen?",
+      "options": {
+        "A": "Unbedingt zweimal täglich im Napf, zwischendurch darf der Hund nichts bekommen.",
+        "B": "Futter muss immer zur freien Verfügung bereitstehen, denn alle Hunde wissen selbst am besten wie viel sie brauchen.",
+        "C": "Hunde brauchen weder feste Fütterungszeiten noch einen festen Fütterungsort. Man kann das gesamte Futter auch in Form von Belohnungshäppchen verfüttern, wenn man es möchte oder zum Training braucht.",
+        "D": "Das Futter kann man sehr gut nutzen, um den Hund dafür Übungen machen zu lassen. Denn ‚Leistung wird bezahlt'."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 140,
+      "question": "Ein sonst aktiver Hund ist ungewöhnlich ruhig und interessiert sich nicht besonders für das tägliche Geschehen. Was könnte das bedeuten?",
+      "options": {
+        "A": "Gar nichts. Es ist nicht schlimm, wenn der Hund ruhig ist.",
+        "B": "In der Regel handelt es sich um eine normale Altersentwicklung.",
+        "C": "Das veränderte Verhalten kann ein Hinweis sein, dass mit dem Tier etwas nicht stimmt. Man sollte das bei dem/der Tierarzt /ärztin abklären lassen.",
+        "D": "Man sollte ihm sein Lieblingsfutter anbieten. Erst wenn er das nicht mehr frisst, wird ein Tierarztbesuch erforderlich."
+      },
+      "correct_answers": [
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 158,
+      "question": "Was lässt sich über Schmerzen beim Hund sagen?",
+      "options": {
+        "A": "Akute Schmerzen zeigen viele Hunde durch Aufjaulen. Chronische Schmerzen lassen sich hingegen oftmals schwer erkennen. Sie können sich durch ruhigeres Verhalten oder Auftreten oder Verschlechterung von Verhaltensproblemen zeigen.",
+        "B": "Schmerzen müssen beim Hund gemäß dem Tierschutzgesetz medizinisch behandelt werden.",
+        "C": "Chronische Schmerzen betreffen oft die Zähne, die Ohren, Magen und Darm und das Skelettsystem.",
+        "D": "Schmerzen sind der häufigste Auslöser oder Verstärker für Verhaltensprobleme, wie Angst und Aggression."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 178,
+      "question": "Welche Probleme können auftreten, wenn ein Hund länger alleine im Auto warten muss?",
+      "options": {
+        "A": "Im Sommer kann es innerhalb von Minuten so warm werden, dass der Hund lebensbedrohliche Kreislaufprobleme bekommt.",
+        "B": "Im Auto kann nichts passieren, weil sich der Hund dort sicher aufhalten kann.",
+        "C": "Bei Minusgraden kann es sein, dass der Hund stark friert und deswegen krank wird.",
+        "D": "Da ein Hund seine Körpertemperatur nur über Hecheln und Schweißabsonderungen der Pfoten regulieren kann, bekommt er erheblich schneller als Menschen Probleme, wenn es im Auto zu warm wird."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 179,
+      "question": "Welche Themen sollte ich am besten mit meinem/r Tierarzt/-ärztin besprechen?",
+      "options": {
+        "A": "Art und Häufigkeit einer Entwurmung.",
+        "B": "Nötige und sinnvolle Impfungen.",
+        "C": "Ein Besuch bei dem/r Tierarzt/-ärztin ist nur nötig, wenn es dem Hund schlecht geht.",
+        "D": "Art und Häufigkeit einer Zecken- und Flohprophylaxe."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 183,
+      "question": "Wann ist abgesehen vom Krankheitsfall der Besuch einer Tierarztpraxis bzw. ein Gespräch mit meinem/r Tierarzt/-ärztin wichtig?",
+      "options": {
+        "A": "Bei Überlegungen bezüglich einer Kastration.",
+        "B": "Zum allgemeinen Gesundheitscheck.",
+        "C": "Für junge Hunde, um die Praxis stressfrei und spielerisch kennen zu lernen.",
+        "D": "Bei Fragen zu Impfungen, Entwurmungen und vorbeugenden Behandlungen gegen Zecken und Flöhe."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

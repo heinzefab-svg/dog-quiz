@@ -1,0 +1,161 @@
+{
+  "category": "4 Hund und Kind",
+  "category_description": "Fragen zum sicheren Umgang zwischen Hunden und Kindern",
+  "questions": [
+    {
+      "id": 3,
+      "question": "Ein Welpe oder ein Kind ist einem Hund gegenüber sehr aufdringlich. Welche Verhaltensweisen erwachsener Hunde sind normal und absolut hundetypisch?",
+      "options": {
+        "A": "Knurren.",
+        "B": "Die Lefzen kräuseln.",
+        "C": "Der Hund tut nichts, weil Kinder und Welpen bei erwachsenen Hunden uneingeschränkt Narrenfreiheit haben.",
+        "D": "Steigerung aggressiver Verhaltensweisen, wie z.B. Schnappen oder Beißen, wenn Drohen des Hundes bestraft, gelobt/beruhigt, ignoriert oder nicht wahrgenommen wird."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 28,
+      "question": "Was kann zu Problemen zwischen Hunden und Kindern führen?",
+      "options": {
+        "A": "Kinder können auf Spielideen kommen, die Hunden unangenehm sind.",
+        "B": "Kinder können Hundeverhalten missverstehen bzw. falsch deuten und verhalten sich dann aus Hundesicht unangemessen.",
+        "C": "Zwischen Kindern und Hunden gibt es keine Probleme, denn sie sind gleichermaßen spielbegeistert und verstehen sich immer gut.",
+        "D": "Beide, Kinder und Hunde, sind unberechenbar."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 33,
+      "question": "Sollte man seinen Hund unbeaufsichtigt mit Kindern spielen lassen?",
+      "options": {
+        "A": "Wenn der Hund und das Kind zusammenleben, ist das kein Problem, weil der Hund seine eigenen Familienmitglieder nie beißen bzw. verletzen würde.",
+        "B": "Wenn der Hund die Kinder kennt und mag, ist das kein Problem.",
+        "C": "Eine gute Aufsicht bei Kontakten zwischen Kindern und Hunden ist notwendig, weil es immer zu kritischen Situationen kommen kann.",
+        "D": "Nur, wenn es ein kleiner Hund ist, der den Kindern nichts tun kann."
+      },
+      "correct_answers": [
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 38,
+      "question": "Was sind typische ‚Fehler' von Kindern bei Begegnungen mit einem Hund?",
+      "options": {
+        "A": "Dem Hund direkt in die Augen starren.",
+        "B": "Den direkten Blick zum Hund meiden.",
+        "C": "Die Arme hochreißen, schreien oder wegrennen.",
+        "D": "Dem Hund über den Kopf streicheln."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 43,
+      "question": "Was ist beim Spielen von Kindern mit Hunden zu beachten?",
+      "options": {
+        "A": "Es muss eine erwachsene Aufsichtsperson dabei sein, um eingreifen zu können, falls es einem Kind oder dem Hund zu wild oder zu viel werden sollte.",
+        "B": "Der Hund muss die Kinder als Chef ansehen, was man anhand von Unterordnungsübungen vorab testen kann.",
+        "C": "Der Hund darf nicht dazu neigen, Spielzeug gegen Kinder zu verteidigen.",
+        "D": "Wilde Rauf- und Rennspiele dürfen nicht gemacht werden."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 48,
+      "question": "Es kommt relativ häufig vor, dass Hunde Kinder im Gesicht verletzen. Warum?",
+      "options": {
+        "A": "Das Gesicht des Kindes ist oft in Schnauzenhöhe.",
+        "B": "Kinder umarmen Hunde gerne und geben ihnen Küsse. Einigen Hunden ist diese Nähe zu viel und sie versuchen sich durch Schnappen aus der Situation zu befreien.",
+        "C": "Die Gesichtsverletzungen entstehen fast nie durch Bisse, sondern wenn die Kinder angesprungen werden und dabei hinfallen.",
+        "D": "Hunde können in seltenen Fällen versehentlich das Gesicht eines Kindes verletzen, wenn sie über das ‚Lefzenlecken' Beschwichtigung signalisieren wollen."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 58,
+      "question": "Wie sollten sich Kinder verhalten, wenn sie einem fremden Hund begegnen?",
+      "options": {
+        "A": "Normal weitergehen, ohne den Hund anzusehen bzw. anzusprechen.",
+        "B": "Den Halter fragen, ob sie sich dem Hund nähern dürfen, sofern sie das gerne machen möchten.",
+        "C": "Zügig auf den Hund zugehen und ihn streicheln.",
+        "D": "Vorsichtig auf den Hund zugehen und ihn ganz kurz von hinten auf den Rücken streicheln."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 107,
+      "question": "Was sind sinnvolle Maßnahmen, um den Umgang von Kindern und Hunden sicherer zu gestalten?",
+      "options": {
+        "A": "Man muss den Hund beobachten, ob er beim Umgang mit den Kindern wirklich entspannt und zufrieden ist und ihn im Zweifelsfall ‚retten'.",
+        "B": "Wenn ein Hund einen Maulkorb aufhat, kann man ihn immer zwischen Kindern laufen lassen. Denn dann ist sichergestellt, dass der Hund die Kinder nicht verletzten kann.",
+        "C": "Hunde, die unsicher oder ängstlich im Umgang mit Kindern sind, sollten an der Leine gehalten werden. Dabei muss Sorge dafür getragen werden, dass genügend Abstand zu den Kindern eingehalten werden kann, damit der Hund sich wohl fühlen kann. Bei Hunden mit Problemen mit Kindern kann die Gewöhnung an einen Maulkorb eine sinnvolle zusätzliche Sicherungsmaßnahme sein.",
+        "D": "Solange nicht wirklich klar ist, wie gut ein Hund mit Kindern einer bestimmten Altersklasse zurechtkommt, muss der Halter immer dichter am Hund als das Kind sein, um im Notfall dazwischen zu stehen. Dabei geht es sowohl darum, dass sich der Hund in nicht freundlicher Absicht dem jeweiligen Kind nähern könnte, als auch darum, dass sich das Kind unabsichtlich bedrohlich dem Hund nähern könnte."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 110,
+      "question": "Ist es eine Frage des Alters eines Kindes, ob das Zusammenleben mit einem Hund reibungslos funktioniert?",
+      "options": {
+        "A": "Es ist eine Frage der Sozialisation, ob ein Hund mit Kindern einer bestimmten Altersklasse gut zurechtkommt oder nicht.",
+        "B": "Es hat mit dem Alter des Kindes nichts zu tun. Ein Hund erkennt die Kinder der eigenen Familie immer als zugehörig und ist ihnen wohlgesonnen.",
+        "C": "Je kleiner die Kinder, desto wahrscheinlicher ist es, dass sie sich nicht rücksichtsvoll dem Hund gegenüber verhalten.",
+        "D": "Es gibt Hunde, denen wildes Toben im Haus zu viel werden kann. Daher kann es bei älteren oder ruhigen Kindern in solchen Fällen reibungsloser funktionieren."
+      },
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 112,
+      "question": "Was ist bei der Sozialisierung eines Hundes auf Kinder zu beachten?",
+      "options": {
+        "A": "Der Hund sollte besonders im Welpenalter rigoros vor Kindern abgeschirmt werden, denn Kinder wollen Hunde nur ärgern oder bedrängen.",
+        "B": "Man muss nur darauf achten, dass ein Hund freien Kontakt mit Kindern hat, bei denen er alles, was die Kinder mit ihm machen, ohne offensichtliche Gegenwehr erträgt.",
+        "C": "Der Hund braucht nur den Kontakt zu einem Kind, um ausreichend auf Kinder sozialisiert zu werden.",
+        "D": "Der Hund sollte im Welpenalter genügend Kontakte zu Kindern aller Altersstufen haben, die er wirklich als positiv erlebt."
+      },
+      "correct_answers": [
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

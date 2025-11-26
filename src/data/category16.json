@@ -1,0 +1,159 @@
+{
+  "category": "16 Haltung",
+  "category_description": "Fragen zur artgerechten Hundehaltung und gesetzlichen Vorschriften",
+  "questions": [
+    {
+      "id": 32,
+      "question": "Welche Bedürfnisse des Hundes müssen bei artgerechter Haltung täglich ausreichend erfüllt werden?",
+      "options": {
+        "A": "Der Hund muss ausreichend, d.h. mehrere Stunden täglich geistig und körperlich Beschäftigung haben. Dies muss dem Alter und dem Gesundheitszustand des Hundes angepasst werden.",
+        "B": "Der Hund muss jeden Tag ausreichend lange Sozialkontakte mit Menschen und Artgenossen haben. Dies muss den Bedürfnissen und Möglichkeiten des Hundes angepasst werden.",
+        "C": "Der Hund muss täglich ausreichend Futter erhalten und ständig frisches Wasser zur Verfügung haben.",
+        "D": "Der Hund sollte vorwiegend in einer Zwingeranlage mit gut isoliertem Boden gehalten werden."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 37,
+      "question": "Nennen Sie Punkte, die man erfüllen muss, um einen Hund artgerecht zu halten.",
+      "options": {
+        "A": "Der Hund braucht täglich häufige Kontaktmöglichkeiten zu Menschen und/oder Hunden.",
+        "B": "Hunde brauchen genügend Platz, um sich ausreichend bewegen zu können.",
+        "C": "Hunde brauchen ausreichend häufige (mind. dreimal täglich) und ausreichend lange (insgesamt mindestens ca. zwei Stunden am Tag für einen gesunden Hund) Spaziergänge.",
+        "D": "Es muss gewährleistet sein, dass der Hund im Krankheitsfall medizinisch versorgt werden kann."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 42,
+      "question": "Welche Haltungsform ist wenig artgerecht und damit tierschutzrechtlich bedenklich?",
+      "options": {
+        "A": "Die Haltung eines großen Hundes in einer kleinen Etagenwohnung, wenn man mit ihm täglich mehrere Stunden draußen unterwegs ist.",
+        "B": "Einen Hund im Krankheitsfall aus Kostengründen nicht tierärztlich behandeln zu lassen.",
+        "C": "Ein Einzeltier in der Wohnung oder im Zwinger mehr als acht Stunden täglich allein zu lassen.",
+        "D": "Einen gesunden jungen Hund jeden Tag dreimal für jeweils 15 Minuten an einer kurzen Leine auszuführen."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 55,
+      "question": "Was ist zur Mitnahme von Hunden im Auto zu sagen? Kreuzen Sie die richtigen Aussagen an.",
+      "options": {
+        "A": "Der Hund sollte auf dem Beifahrersitz sitzen.",
+        "B": "Der Hund muss immer im Kofferraum transportiert werden.",
+        "C": "Der Hund muss im Auto gesichert transportiert werden.",
+        "D": "Man kann den Hund z.B. in einer Transportbox, die auf dem Rücksitz oder im Kofferraum sicher befestigt ist, transportieren."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 64,
+      "question": "Ist Anbindehaltung in Deutschland grundsätzlich erlaubt?",
+      "options": {
+        "A": "Es gibt diesbezüglich keine besonderen Bestimmungen.",
+        "B": "Ja, wenn die Leine so lang ist, dass der Hund sich gut bewegen und bequem hinlegen kann, darf man ihn angebunden halten.",
+        "C": "Ja, aber die Leine muss mindestens drei Meter lang sein.",
+        "D": "Nein. Aber für Arbeitshunde gibt es bestimmte Ausnahmen. Dabei muss eine Betreuungsperson vorhanden sein, die Leine mindestens 3 Meter lang und gegen Aufdrehen gesichert sein und ein weiches breites Halsband oder Brustgeschirr verwendet werden."
+      },
+      "correct_answers": [
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 66,
+      "question": "Was fördert ein problemloses Zusammenleben mit einem Hund?",
+      "options": {
+        "A": "Training über positive Bestärkung.",
+        "B": "Der Hund muss auf Spaziergängen immer hinter einem gehen.",
+        "C": "Art-, rasse- und altersgerechte Beschäftigung und körperliche Betätigung.",
+        "D": "Jedes unerwünschte Verhalten muss konsequent bestraft werden."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 83,
+      "question": "Gibt es gesetzliche Vorschriften für die Zwingerhaltung von Hunden?",
+      "options": {
+        "A": "Nein, jeder Hundehalter kann entscheiden, wie er seinen Hund halten möchte.",
+        "B": "Ja, es gibt eine Tierschutz-Hundeverordnung.",
+        "C": "Ja, sie besagen, dass nur Hunde, die größer als 40 cm Schulterhöhe sind, in Zwingeranlagen gehalten werden dürfen.",
+        "D": "Ja, es müssen Anforderungen aus der Tierschutz-Hundeverordnung erfüllt werden. Dazu gehören die Größe und die Ausstattung des Zwingers, die Häufigkeit und Dauer des täglichen Auslaufs und der Sozialkontakte mit Menschen und Hunden."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 101,
+      "question": "Wie viel Bewegung braucht ein Hund?",
+      "options": {
+        "A": "Das ist abhängig von der Größe, dem Alter und dem Gesundheitszustand.",
+        "B": "Hunde brauchen nicht viel Bewegung. Es sind Tiere, die Gemütlichkeit lieben.",
+        "C": "Zu viel Bewegung schadet den Gelenken. Daher sollten Welpen und Junghunde nur 5 Minuten pro Lebensmonat Auslauf bekommen.",
+        "D": "Das ist abhängig von der Art und der Menge der Fütterung. Ein Hund, der viel Fleisch bekommt, braucht mehr Bewegung."
+      },
+      "correct_answers": [
+        "A"
+      ],
+      "image": null
+    },
+    {
+      "id": 120,
+      "question": "Ist eine Haftpflichtversicherung für den Hund sinnvoll?",
+      "options": {
+        "A": "Ja, denn jeder Hund kann einen Schaden verursachen, für den sein Halter dann haftet. Dies können z. B. bei Autounfällen, die zu dauerhaften Schäden von Personen führen, erhebliche Summen sein.",
+        "B": "In NRW ist eine Haftpflichtversicherung für Hunde ab 20 kg oder 40 cm Schulterhöhe vorgeschrieben.",
+        "C": "Ohne Haftpflichtversicherung darf der Hund gemäß den gesetzlichen Vorschriften in NRW nie frei laufen.",
+        "D": "Es ist nicht sinnvoll, sondern eine unnötige Geldausgabe. Die Wahrscheinlichkeit, dass ein Hund einen Schaden verursacht, ist zu gering."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 175,
+      "question": "Was muss man bei der Haltung einer Hündin mit Welpen berücksichtigen?",
+      "options": {
+        "A": "Es gibt unter anderem Vorschriften zur Haltung in der Tierschutz-Hundeverordnung zum Platzbedarf, zur Gestaltung und Größe der Wurfkiste und einer Rückzugsmöglichkeit für die Hündin.",
+        "B": "Man trägt die Verantwortung dafür, dass die Welpen in entspannter Atmosphäre verschiedene Umweltreize und Sozialkontakte mit unterschiedlichen Menschen haben.",
+        "C": "Die Hündin braucht nur einen Platz, wo sie mit ihren Welpen sein kann. Ansonsten kümmert sich jede Hündin in allen Belangen um ihre Welpen.",
+        "D": "Welpen muss laut Tierschutz-Hundeverordnung ab einem Alter von fünf Wochen mindestens einmal täglich Auslauf im Freien gewährt werden, sofern sie im Haus aufgezogen werden."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

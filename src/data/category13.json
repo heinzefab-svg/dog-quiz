@@ -1,0 +1,163 @@
+{
+  "category": "13 Probleme - Ursachen und Vorbeugen",
+  "category_description": "Fragen zu Ursachen von Verhaltensproblemen und deren Vorbeugung",
+  "questions": [
+    {
+      "id": 85,
+      "question": "In welcher der genannten Situationen können Hunde aggressiv reagieren?",
+      "options": {
+        "A": "Wenn sie von einer fremden Person plötzlich angefasst werden und nicht ausweichen können.",
+        "B": "Wenn man sie beim Fressen stört.",
+        "C": "Beim Tierarzt/ärztin bei schmerzhaften Manipulationen oder aus Angst.",
+        "D": "Wenn man vermeidet, einem fremden Hund direkt in die Augen zu schauen."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 117,
+      "question": "Welche Maßnahmen sind sinnvoll, um Verhaltensproblemen bei einem Hund vorzubeugen?",
+      "options": {
+        "A": "Striktes Bestrafen unerwünschter Verhaltensweisen.",
+        "B": "Souveräner und verständnisvoller Umgang.",
+        "C": "Ignorieren ständiger Aufmerksamkeit fordernder Verhaltensweisen des Hundes.",
+        "D": "Training über positive Bestärkung."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 132,
+      "question": "Was sind häufige Ursachen für die Entstehung eines Angstproblems?",
+      "options": {
+        "A": "Schlechte Erfahrungen, besonders, wenn sie in der Welpenzeit stattgefunden haben oder eine einmalige besonders schockierende schlechte Erfahrung.",
+        "B": "Mangelnde Erfahrungen = Sozialisations- und Habituationsdefizite.",
+        "C": "Schmerzen sind die häufigste körperliche Ursache für die Entstehung oder Verschlechterung von Verhaltensproblemen.",
+        "D": "Liebevoller und eindeutiger Umgang mit dem Hund, der seine Bedürfnisse und Möglichkeiten berücksichtigt."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 153,
+      "question": "Wie lernt ein Hund am besten alleine zu Hause zu bleiben?",
+      "options": {
+        "A": "Er sollte im gesamten ersten halben Jahr niemals allein zu Hause gelassen werden.",
+        "B": "Im Idealfall beginnt man mit dem Training für das Alleinbleiben schon in Welpentagen. Dafür entfernt man sich manchmal für Sekunden und dehnt das über mehrere Wochen auf Minuten aus. Im Junghundalter dehnt man die Zeitspanne allmählich auf Stunden aus.",
+        "C": "Man sollte den Hund schrittweise an die Situation gewöhnen.",
+        "D": "Hunde können das von allein."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 155,
+      "question": "Warum zerstören manche Hunde Teile der Wohnung, wenn sie alleine zu Hause bleiben müssen?",
+      "options": {
+        "A": "Langeweile.",
+        "B": "Sie wollen sich am Besitzer rächen, denn am liebsten wären sie mitgegangen.",
+        "C": "Solche Hunde leiden häufig unter sogenannter Trennungsangst.",
+        "D": "Der Hund hat vermutlich Hunger."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 169,
+      "question": "Aus welchem Grund ist es ratsam, dem Hund frühestmöglich beizubringen, nicht an Leuten hochzuspringen?",
+      "options": {
+        "A": "Hunde können durch das Anspringen Menschen erschrecken oder unabsichtlich verletzen.",
+        "B": "Hunde können durch das Anspringen Kleidung beschmutzen oder zerreißen.",
+        "C": "Da es ein Zeichen großer Freude ist und nichts mit Aggressivität zu tun hat, wenn ein Hund springt, muss man dem Hund das Anspringen nicht abgewöhnen. Andere Menschen müssen das akzeptieren.",
+        "D": "Wenn ein Hund sich als Welpe angewöhnt Menschen anzuspringen, ist es für ihn besonders schwer zu verstehen, wenn er es als erwachsener Hund nicht mehr tun soll."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 172,
+      "question": "Welche Umstände können bei Hunden zu Trennungsangst führen?",
+      "options": {
+        "A": "Trennungsangst entsteht nicht, wenn man noch einen zweiten Hund hat.",
+        "B": "Der Hund hat nie individuell auf ihn abgestimmt gelernt, entspannt allein zu bleiben.",
+        "C": "Die Entwicklung von Trennungsangst ist erblich bedingt.",
+        "D": "Der Besitzer ist in einer Lebensphase viel zu Hause und lässt danach den Hund plötzlich wieder länger allein."
+      },
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 190,
+      "question": "Woran erkennt man eine gute Hundeschule?",
+      "options": {
+        "A": "Den Hunden werden konsequent Grenzen gesetzt, indem Schnauzengriff, Nackenstoß oder auf den Rücken drehen bei unerwünschtem Verhalten angewendet werden.",
+        "B": "Der Hund geht gerne dorthin.",
+        "C": "Erwünschtes Verhalten wird in kleinen Schritten über positive Bestärkung aufgebaut.",
+        "D": "Es wird darauf geachtet, dass die Hunde nicht für unerwünschtes Verhalten unbeabsichtigt belohnt werden, indem der Halter sich um sie kümmert oder sie etwas machen lässt, was ihnen Freude macht."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 193,
+      "question": "Wie bringt man einem Hund bei, dass er nicht aus Freude Menschen zur Begrüßung anspringt?",
+      "options": {
+        "A": "Mit dem Anspringen möchte der Hund sich als Chef aufspielen und man muss ihn für das Anspringen bestrafen.",
+        "B": "Begrüßungen sollten möglichst ruhig und entspannt erfolgen, sodass keine große Aufregung oder Partystimmung bei dem Hund gefördert wird.",
+        "C": "Man kümmert sich nur um den Hund, wenn alle vier Pfoten auf dem Boden sind.",
+        "D": "Man verhindert das Anspringen, indem man den Hund eine bekannte Übung wie z. B. Sitz machen lässt, für die man ihn belohnt. Dies muss erfolgen, bevor der Hund das erste Mal bei einer Begegnung anspringen würde."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 195,
+      "question": "Wie kann man vorbeugen, dass ein Hund beginnt, andere Hunde anzupöbeln, wenn er an der Leine ist?",
+      "options": {
+        "A": "Man drängt den Hund immer resolut hinter sich, wenn ein anderer Hund vorbei geht.",
+        "B": "Man lobt den Hund, wenn er artig an einem anderen Hund vorbei gegangen ist.",
+        "C": "Während ein Hund sich nähert und an einem vorbei geht, gibt man seinem Hund die Leckerchen so, dass sich der eigene Hund immer vom anderen Hund abwenden muss, um es zu fressen.",
+        "D": "Man lockt den eigenen Hund mit einem Leckerchen an dem vorbeigehenden Hund vorbei."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    }
+  ]
+}

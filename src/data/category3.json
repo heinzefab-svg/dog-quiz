@@ -1,0 +1,164 @@
+{
+  "category": "3 Rassen",
+  "category_description": "Fragen zu Hunderassen, rassetypischen Eigenschaften und Qualzuchten",
+  "questions": [
+    {
+      "id": 2,
+      "question": "Sind alle Hunde gleich oder gibt es rassetypische Eigenschaften?",
+      "options": {
+        "A": "Alle Hunde sind gleich.",
+        "B": "Je nach Rasse weisen Hunde unterschiedliche Veranlagungen auf, z. B. in Bezug auf Jagdverhalten und Aktivität.",
+        "C": "Verschiedene Rassen unterscheiden sich nur durch ihr äußeres Erscheinungsbild.",
+        "D": "Rassetypische Eigenschaften gibt es nicht, aber anhand der Größe kann man eine Einteilung in ‚kinderfreundlich', ‚gefährlich', ‚leicht zu erziehen' etc. treffen."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 12,
+      "question": "Was ist die Grundveranlagung, die jeder Hund in sich trägt?",
+      "options": {
+        "A": "Hunde sind Jagdraubtiere.",
+        "B": "Hunde sind für das Zusammenleben mit Menschen geschaffen worden. Sie sind völlig abhängig vom Menschen und können alleine nicht existieren, da sie sich keine Nahrung beschaffen könnten.",
+        "C": "Hunde sind soziale Tiere und darauf ausgerichtet, in einem Gruppenverband zu leben.",
+        "D": "Hunde sind Aasfresser und suchen deshalb ständig nach toten Tieren."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 161,
+      "question": "In welchen Eigenschaften kann es bei Hunderassen große Unterschiede geben?",
+      "options": {
+        "A": "Lauf- und Beschäftigungsbedürfnis",
+        "B": "Veranlagung zur territorialen Verteidigung",
+        "C": "Jagdbegeisterung",
+        "D": "Veranlagung zur Ängstlichkeit"
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 171,
+      "question": "Welche gesundheitlichen Probleme haben sehr kurznasige Hunde, wie z. B. Französische Bulldoggen, sehr häufig, weswegen man diese Rassen auch als Qualzuchten bezeichnet?",
+      "options": {
+        "A": "Sie bekommen in der Regel schlecht Luft und haben starke Atemgeräusche.",
+        "B": "Sie haben aufgrund von Wirbeldeformationen oft Rückenprobleme.",
+        "C": "Sie haben oft chronische Erkrankungen der Augen.",
+        "D": "Da sie schlecht Luft bekommen, können sie in der Regel körperlich nicht so aktiv sein, wie sie gerne sein würden."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 184,
+      "question": "Was kann für herrenlose Hunde aus Süd- und Osteuropa ein erhebliches Problem darstellen, wenn sie nach Deutschland in ein neues Zuhause gebracht werden?",
+      "options": {
+        "A": "Für Hunde ist ein Leben in Deutschland immer besser als im Herkunftsland.",
+        "B": "Das Leben als Einzelhund, wenn sie vorher immer mit anderen Hunden zusammengelebt haben.",
+        "C": "Das Leben vorwiegend im Haus und Ausgehen an der Leine, wenn sie vorher das freie Leben draußen kannten.",
+        "D": "Die Nähe zu Menschen und sämtliche Umweltreize, die sie in ihrem Leben vorher nicht kennen gelernt haben."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 185,
+      "question": "Können bei der Übernahme eines herrenlosen Hundes aus Süd- oder Osteuropa Verhaltensprobleme auftreten?",
+      "options": {
+        "A": "Eine nicht ausreichende Sozialisation und Habituation auf Menschen, Hunde und Umweltreize, die in der neuen Wohnumgebung vorhanden sind, kann zu Ängsten führen, die zu dauerhaften erheblichen Leiden führen und nicht ausreichend therapierbar sind.",
+        "B": "Hunde können wegen traumatischer Erlebnisse vor der Übernahme oder/und dem Transport lebenslang Probleme mit Ängsten haben.",
+        "C": "Hunde aus dem Tierschutz brauchen grundsätzlich nur liebevolle Behandlung und eine/n guten Hundetrainer/in, um sie zu unkomplizierten Begleithunden zu machen.",
+        "D": "Es können sehr spezielle Verhaltensweisen von Rassen des Herkunftslandes auftreten, die mit dem vorgesehenen Leben in Deutschland nicht zusammenpassen, wie z. B. eine übermäßige Veranlagung zur territorialen Verteidigung bei Herdenschutzhunden und ihren Mischlingen."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 186,
+      "question": "Welche gesundheitlichen Probleme haben stark verzwergte Rassen, wie z. B. der Chihuahua, sehr häufig, weswegen man diese Rassen auch als Qualzuchten bezeichnet?",
+      "options": {
+        "A": "Rassetypische Krankheiten (z. B. Wasserkopf, Kniescheibenprobleme), die bereits frühzeitig im Leben zu erheblichen dauerhaften Leiden führen können.",
+        "B": "Der rassetypische Schädel in Form einer kleinen Kugel führt zu Problemen mit den Augen, dem Gehirn, dem Rückenmark und den Zähnen.",
+        "C": "Verzwergte Rassen sind nur klein, haben aber dadurch keine besonderen gesundheitlichen Probleme verglichen mit anderen Hunden.",
+        "D": "Es besteht eine besondere Gefahr für Knochenbrüche."
+      },
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 187,
+      "question": "Was muss man bei Kontakten mit anderen Hunden berücksichtigen, wenn man einen sehr kleinen Hund (ca. unter 5 kg) oder einen sehr großen Hund (ca. über 50 kg) halten möchte?",
+      "options": {
+        "A": "Man muss nichts berücksichtigen. Hunde regeln alles immer unter sich. Daher sollten Besitzer/innen sich grundsätzlich bei Hundebegegnungen heraushalten.",
+        "B": "Sehr kleine Hunde können im Kontakt mit wesentlich größeren Hunden auch versehentlich verletzt werden.",
+        "C": "Sehr große Hunde müssen in besonderem Maße als Welpen und heranwachsende Hunde in Spielkontakten mit anderen Hunden lernen, rücksichtsvoll mit ihrer Kraft umzugehen.",
+        "D": "Es ist häufig schwer, für beide Hundetypen passende Spielpartner zu finden, weil man viele Kontakte aufgrund des Größenunterschieds nicht zulassen kann. Dies kann bei betroffenen Hunden zu einer Einschränkung der Lebensqualität führen."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 196,
+      "question": "Kann man Hunde jeder Größe problemlos an der Leine bei sich halten?",
+      "options": {
+        "A": "Es ist grundsätzlich nur eine Frage der Erziehung, ob man einen Hund in jeder Situation gut halten kann.",
+        "B": "Man kann in der Regel Hunde bis ca. zu einem Drittel des eigenen Körpergewichts gut halten.",
+        "C": "Vor allem aktiven gesunden Hunden fällt es selbst bei ausreichender Auslastung häufig sehr schwer, sich der Gangart ihres Menschen immer anzupassen. Daher kann es lange dauern, bis der Hunde den gewünschten Trainingsstand erreicht hat, ohne zu Ziehen an der Leine zu gehen.",
+        "D": "Bei glatter Straße oder in Situationen, in denen der Hund sehr aufgeregt oder ängstlich ist, kann es auch bei ansonsten gut leinenführigen Hunden schwer sein, sie an der Leine sicher halten zu können."
+      },
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 197,
+      "question": "Gibt es Hunderassen mit einer Veranlagung für bestimmte Krankheiten?",
+      "options": {
+        "A": "Alle Rassen sind überzüchtet, sodass man nur mit einem Mischling einen gesunden Hund bekommen kann.",
+        "B": "Es gibt für fast alle Hunderassen rassetypische Krankheiten. Daher sollte man sich bei der Rassewahl auch gut informieren, für welche Krankheiten ein Risiko bestehen könnte.",
+        "C": "Eine Veranlagung für bestimmte Krankheiten können nicht nur Rassehunde haben, sondern auch Mischlinge aus ihnen.",
+        "D": "Wenn die Eltern gesund erscheinen, werden ihre Welpen in jedem Fall gesund sein."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    }
+  ]
+}

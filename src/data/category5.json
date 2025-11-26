@@ -1,0 +1,154 @@
+{
+  "category": "5 Umgang und Verständnis",
+  "category_description": "Fragen zum Verständnis von Hundeverhalten und zum richtigen Umgang mit Hunden",
+  "questions": [
+    {
+      "id": 18,
+      "question": "Ich beuge mich über einen Hund und möchte ihn streicheln. Er duckt sich und knurrt. Ich mache mich klein und strecke ihm meine Hand entgegen, damit er daran schnüffeln kann. In diesem Moment schnappt er nach mir. Was könnte der Grund dafür sein?",
+      "options": {
+        "A": "Ein Hund, der so reagiert, muss früher geschlagen worden sein.",
+        "B": "Er hat die Geste des Über-ihn-Beugens und Handausstreckens als Bedrohung empfunden.",
+        "C": "Er ist grundsätzlich verhaltensgestört.",
+        "D": "Es ist normal, dass Hunde Gegner attackieren, die schwächer sind. Dadurch, dass man sich klein gemacht hat, hat man dem Hund signalisiert, dass man schwächer ist als er."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 62,
+      "question": "Was fördert eine vertrauensvolle Beziehung zu einem Hund?",
+      "options": {
+        "A": "Der Hund muss im Haus immer auf seinem Platz liegen.",
+        "B": "Der Hund muss auf Spaziergängen hinter einem gehen.",
+        "C": "Der Hund kann sich darauf verlassen, dass sein Halter ihn nicht bedroht oder einschüchtert.",
+        "D": "Der Hund erlebt schöne Dinge mit seinem Halter."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 78,
+      "question": "Können Hunde unsere Sprache verstehen?",
+      "options": {
+        "A": "Hunde haben kein Sprachverständnis.",
+        "B": "Hunde verstehen sehr wohl, was man ihnen sprachlich erklärt, vor allem wenn sie etwas falsch gemacht haben.",
+        "C": "Hunde können keine Sprache verstehen, aber sie können in der Sprache einzelne Wörter als Klangfolge wiedererkennen, deren Bedeutung sie gelernt haben.",
+        "D": "Hunde können Sprache sehr gut verstehen."
+      },
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 76,
+      "question": "Warum kann ein junger oder ängstlicher Hund in Begrüßungssituationen Urin absetzen?",
+      "options": {
+        "A": "Es handelt sich dabei in der Regel um mangelhafte Stubenreinheit.",
+        "B": "Es handelt sich dabei in der Regel um ein sogenanntes Unterwürfigkeitsharnen, womit der Hund seine Unterlegenheit unterstreicht. Ein solches Verhalten wirkt auf einen anderen Hund beschwichtigend.",
+        "C": "Es handelt sich dabei in der Regel um eine Provokation, womit der Hund testen will, ob er damit durchkommt.",
+        "D": "Es handelt sich dabei in der Regel um ein körperliches Problem der Blasenkontrolle."
+      },
+      "correct_answers": [
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 89,
+      "question": "Wie erkennt ein Hund eine souveräne Führung seines Halters?",
+      "options": {
+        "A": "Man dreht den Hund bei unerwünschtem Verhalten auf den Rücken, um ihm zu zeigen, dass man überlegen ist.",
+        "B": "Vertrauensvolles Training über positive Bestärkung.",
+        "C": "Verzicht auf Strafen als übliche Maßnahmen zur Erziehung.",
+        "D": "Man geht auf jeglichen Wunsch nach Aufmerksamkeit seines Hundes ein."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 91,
+      "question": "Wie vermittelt man seinem Hund, dass man eine Führungspersönlichkeit für ihn ist?",
+      "options": {
+        "A": "Man nimmt dem Hund regelmäßig einen Kauknochen oder das Futter weg.",
+        "B": "Man unterwirft den Hund, indem man ihn auf den Rücken dreht oder auf den Boden drückt, wenn er ein unerwünschtes Verhalten zeigt.",
+        "C": "Man ignoriert aufdringliches und forderndes Verhalten des Hundes.",
+        "D": "Man reagiert dem Hund gegenüber immer entspannt und souverän und fördert über positive Bestärkung erwünschte Verhaltensweisen."
+      },
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 96,
+      "question": "Was zeigt eine gute Bindung zwischen Mensch und Hund an?",
+      "options": {
+        "A": "Der Hund verhält sich gegenüber seinem Menschen entspannt und unbefangen.",
+        "B": "Der Hund hat Spaß an Übungen, die ‚sein' Mensch von ihm verlangt.",
+        "C": "Wenn die Bezugspersonen häufig wechseln, lernt der Hund eine grundsätzlich gute Bindung gegenüber allen Menschen.",
+        "D": "Bei einer guten Bindung zeigt ein Hund niemals Verhaltensprobleme."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    },
+    {
+      "id": 131,
+      "question": "Achten Hunde auf die Körpersprache von Menschen?",
+      "options": {
+        "A": "Hunde achten sehr auf die Körpersprache von Menschen.",
+        "B": "Nur, wenn man es ihnen beigebracht hat.",
+        "C": "Wie Menschen sich verhalten, ist Hunden egal.",
+        "D": "Hunde achten mehr auf die Körpersprache als auf die Worte von Menschen."
+      },
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "image": null
+    },
+    {
+      "id": 157,
+      "question": "Können Hunde ein schlechtes Gewissen haben?",
+      "options": {
+        "A": "Ja, aber nur, wenn sie vorher gelernt haben, dass sie bestimmte Dinge nicht tun dürfen.",
+        "B": "Nein, Hunde haben keine Moralvorstellung von Gut und Böse.",
+        "C": "Nein, obwohl es manchmal so aussieht. In Wirklichkeit haben sie eine negative Verknüpfung mit dem Besitzer oder der Situation gemacht und zeigen eine angeborene Körperhaltung, die Unterwürfigkeit und Ängstlichkeit signalisiert. Sie soll den Besitzer beschwichtigen.",
+        "D": "Ja, allerdings nur, wenn ihre Tat nicht länger als einen halben Tag zurückliegt, denn sie können sich Dinge nur einen halben Tag lang merken."
+      },
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "image": null
+    },
+    {
+      "id": 159,
+      "question": "Bei Ihrer Rückkehr sehen Sie, dass Ihr Hund einen Haufen in die Wohnung gemacht hat. Warum kommt Ihr Hund geduckt zu Ihnen, als hätte er ein schlechtes Gewissen?",
+      "options": {
+        "A": "Der Hund fühlt sich mit seinem Haufen in der Nähe selbst nicht wohl.",
+        "B": "Der Hund hat schon mal die Erfahrung gemacht, dass Sie in einer Situation mit hundlichen Hinterlassenschaften in der Wohnung schlechte Stimmung bekommen haben. Daher kommt er Ihnen unterwürfig entgegen, um Sie zu beschwichtigen.",
+        "C": "Der Hund weiß genau, was er falsch gemacht hat und kommt deshalb geduckt auf Sie zu.",
+        "D": "Der Hund hat ein schlechtes Gewissen."
+      },
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "image": null
+    }
+  ]
+}
